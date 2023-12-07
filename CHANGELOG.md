@@ -1,3 +1,11 @@
+# 1.3.0
+
+### Additions
+
+#### [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)
+
+Adds more... Things.
+
 # 1.2.0
 
 ### Additions
