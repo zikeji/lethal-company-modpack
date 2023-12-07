@@ -1,10 +1,14 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "website_url": "",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
       "BepInEx-BepInExPack-5.4.2100",
+      "2018-LC_API-2.1.1",
+      "Ozone-BepInUtils-1.1.0",
+      "Evaisa-LethalLib-0.5.2",
+      "Evaisa-HookGenPatcher-0.0.5",
       "anormaltwig-LateCompany-1.0.4",
       "vasanex-ItemQuickSwitch-1.1.0",
       "BatTeam-LethalFashion-1.0.3",
@@ -30,7 +34,7 @@
       "Sv_Matt-HideModList-1.0.1",
       "malco-Lategame_Upgrades-2.1.0",
       "amnsoft-EmployeeAssignments-1.0.3",
-      "RugbugRedfern-Skinwalkers-1.0.3",
-      "Evaisa-LethalThings-0.5.0"
+      "RugbugRedfern-Skinwalkers-1.0.6",
+      "Evaisa-LethalThings-0.5.3"
     ]
   }

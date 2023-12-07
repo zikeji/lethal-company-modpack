@@ -1,3 +1,7 @@
+# 1.4.1
+
+Update Skinwalkers & LethalThings version, add explicit dependencies.
+
 # 1.4.0
 
 ### Additions
