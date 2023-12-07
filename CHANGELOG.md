@@ -1,3 +1,11 @@
+# 1.1.0
+
+### Additions
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+Add some incentives for later on in the game.
+
 # 1.0.0
 
 ### Additions
