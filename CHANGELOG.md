@@ -1,3 +1,15 @@
+# 1.2.0
+
+### Additions
+
+#### [EmployeeAssignments](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/)
+
+Employees get granted random assignments. What could go wrong?
+
+#### [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+
+The monsters can copy us now. Trying this out.
+
 # 1.1.0
 
 ### Additions
