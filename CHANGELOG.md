@@ -1,3 +1,9 @@
+# 1.4.0
+
+### Additions
+
+Explicitely add BepInExPack due to weird deprecated pack.
+
 # 1.3.0
 
 ### Additions
