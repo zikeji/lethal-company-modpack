@@ -12,7 +12,8 @@ jobs:
         uses: actions/checkout@v4
       - uses: vimtor/action-zip@v1.1
         with:
-          files: manifest.json icon.png README.md CHANGELOG.md
+          files: manifest.json icon.png README.md CHANGELOG.md config/
+          recursive: false
           dest: package.zip
       - id: set_var
         run: |

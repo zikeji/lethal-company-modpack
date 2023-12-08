@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.4.2",
+    "version_number": "1.5.0",
     "website_url": "",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -35,6 +35,7 @@
       "malco-Lategame_Upgrades-2.1.0",
       "amnsoft-EmployeeAssignments-1.0.3",
       "RugbugRedfern-Skinwalkers-1.0.7",
-      "Evaisa-LethalThings-0.5.4"
+      "Evaisa-LethalThings-0.5.4",
+      "Sligili-More_Emotes-1.1.0"
     ]
   }

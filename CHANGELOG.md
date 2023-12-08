@@ -1,3 +1,7 @@
+# 1.5.0
+
+Add MoreEmotes mod and config override to change keys.
+
 # 1.4.2
 
 Update Skinwalkers & LethalThings version.
