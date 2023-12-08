@@ -1,3 +1,7 @@
+# 1.6.0
+
+Update MoreCompany to 1.7.0. Change emote hotkeys to be F1 for point, F2 for middle finger, F3 for clap, F4 for shy, F5 for dance, and F6 for griddy dance. Update Skinwalkers mod so only Brackens, Ghost Girl, Jester, and Baboon Hawks copy voices
+
 # 1.5.0
 
 Add MoreEmotes mod and config override to change keys.
