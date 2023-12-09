@@ -1,3 +1,7 @@
+# 1.6.2
+
+Update LethalLib to 0.6.0, LethalThings to 0.6.0, and More_Emotes to 1.1.1.
+
 # 1.6.1
 
 Add [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) to combat losing items when saving. Remove baboon hawk from Skinwalker config, add forest giant and earth worm.
