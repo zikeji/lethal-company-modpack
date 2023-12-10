@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.6.3",
+    "version_number": "1.7.0",
     "website_url": "",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -11,11 +11,16 @@
       "Evaisa-HookGenPatcher-0.0.5",
       "notnotnotswipez-MoreCompany-1.7.1",
       "AllToasters-SpectateEnemies-1.4.0",
-      "Evaisa-LethalThings-0.7.0",
+      "Evaisa-LethalThings-0.7.1",
       "RugbugRedfern-Skinwalkers-2.0.0",
       "BatTeam-LethalFashion-1.0.4",
-      "malco-Lategame_Upgrades-2.5.0",
-      "anormaltwig-LateCompany-1.0.4",
+      "malco-Lategame_Upgrades-2.5.1",
+      "Sligili-More_Emotes-1.1.2",
+      "EliteMasterEric-WackyCosmetics-1.1.0",
+      "tinyhoot-ShipLobby-1.0.2",
+      "x753-Mimics-1.1.2",
+      "MassiveNewCoilers-FixCentipedeLag-2023.12.7",
+      "Mischief-UnlimitedPaint-1.0.0",
       "vasanex-ItemQuickSwitch-1.1.0",
       "tinyhoot-ShipLoot-1.0.0",
       "CapyCat-Solos_Ring_Compass-1.0.3",
@@ -36,7 +41,6 @@
       "Renegades-WalkieUse-1.2.3",
       "Sv_Matt-HideModList-1.0.1",
       "amnsoft-EmployeeAssignments-1.0.3",
-      "Sligili-More_Emotes-1.1.1",
       "Drakorle-MoreItems-1.0.1"
     ]
   }

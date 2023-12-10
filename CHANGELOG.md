@@ -1,3 +1,18 @@
+# 1.7.0
+
+Added [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/), which adds more cosmetics to MoreCompany.
+
+Replaced LateCompany with [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/).
+
+Added [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/).
+
+Added [FixCentipedeLag](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/).
+
+Added [UnlimitedPaint](https://thunderstore.io/c/lethal-company/p/Mischief/UnlimitedPaint/).
+
+
+Update More_Emotes to 1.1.2, update LethalThings to 1.7.1, update Lategame_Upgrades to 2.5.1.
+
 # 1.6.3
 
 Updates to mods for v45 support. LC_API updated to 2.1.2, LethalLib updated to 0.6.2, MoreCompany updated to 1.7.1, SpectateEnemies updated to 1.4.0, LethalThings updated to 0.7.0, Skinwalkers updated to 2.0.0, LethalFashion updated to 1.0.4, Lategame_Upgrades update dto 1.0.4.
