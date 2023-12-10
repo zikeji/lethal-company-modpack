@@ -1,3 +1,7 @@
+# 1.6.3
+
+Updates to mods for v45 support. LC_API updated to 2.1.2, LethalLib updated to 0.6.2, MoreCompany updated to 1.7.1, SpectateEnemies updated to 1.4.0, LethalThings updated to 0.7.0, Skinwalkers updated to 2.0.0, LethalFashion updated to 1.0.4, Lategame_Upgrades update dto 1.0.4.
+
 # 1.6.2
 
 Update LethalLib to 0.6.0, LethalThings to 0.6.0, and More_Emotes to 1.1.1.
