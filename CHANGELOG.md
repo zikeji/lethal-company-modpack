@@ -1,3 +1,7 @@
+# 1.8.1
+
+Update FlashlightToggle to 1.4.0.
+
 # 1.8.0
 
 Added [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/).
