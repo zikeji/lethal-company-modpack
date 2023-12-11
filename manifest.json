@@ -1,12 +1,12 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.8.1",
+    "version_number": "1.8.2",
     "website_url": "",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
       "BepInEx-BepInExPack-5.4.2100",
       "2018-LC_API-2.1.2",
-      "Ozone-BepInUtils-1.1.0",
+      "Ozone-BepInUtils-1.2.0",
       "Evaisa-LethalLib-0.6.2",
       "Evaisa-HookGenPatcher-0.0.5",
       "notnotnotswipez-MoreCompany-1.7.1",

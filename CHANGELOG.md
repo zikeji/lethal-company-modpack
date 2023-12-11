@@ -1,3 +1,7 @@
+# 1.8.2
+
+Update BepInUtils to 1.2.0.
+
 # 1.8.1
 
 Update FlashlightToggle to 1.4.0.
