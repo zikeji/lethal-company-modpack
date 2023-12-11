@@ -1,3 +1,19 @@
+# 1.8.0
+
+Added [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/).
+
+Added [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/).
+
+Added [Space Pajamas Suit](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/).
+
+Added [GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/).
+
+Added [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/).
+
+Update Helmet_Cameras to 2.1.4.
+
+Removed AdditionalSuits.
+
 # 1.7.0
 
 Added [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/), which adds more cosmetics to MoreCompany.
@@ -15,7 +31,7 @@ Update More_Emotes to 1.1.2, update LethalThings to 1.7.1, update Lategame_Upgra
 
 # 1.6.3
 
-Updates to mods for v45 support. LC_API updated to 2.1.2, LethalLib updated to 0.6.2, MoreCompany updated to 1.7.1, SpectateEnemies updated to 1.4.0, LethalThings updated to 0.7.0, Skinwalkers updated to 2.0.0, LethalFashion updated to 1.0.4, Lategame_Upgrades update dto 1.0.4.
+Updates to mods for v45 support. LC_API updated to 2.1.2, LethalLib updated to 0.6.2, MoreCompany updated to 1.7.1, SpectateEnemies updated to 1.4.0, LethalThings updated to 0.7.0, Skinwalkers updated to 2.0.0, LethalFashion updated to 1.0.4, Lategame_Upgrades updated to 1.0.4.
 
 # 1.6.2
 
