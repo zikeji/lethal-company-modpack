@@ -1,69 +1,144 @@
+# 1.9.0
+
+### Additions
+
+#### [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/)
+
+Adds back the additional suit colors we know and love from AdditionalSuits, plus some more.
+
+#### [SquidGameSuits](https://thunderstore.io/c/lethal-company/p/ViViKo/SquidGameSuits/)
+
+We're watching the new show, so this is a no brainer.
+
+#### [Fashion_Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/)
+
+More fashion, more power.
+
+### Updates
+
+Updated WalkieUse to 1.3.1, FlashlightToggle to 1.4.1, Glow_Steps to 1.1.2, Helmet_Cameras to 2.1.5, Mimics to 2.0.0, and Skinwalkers to 2.0.1. 
+
 # 1.8.2
 
-Update BepInUtils to 1.2.0.
+### Updates
+
+Updated BepInUtils to 1.2.0.
 
 # 1.8.1
 
-Update FlashlightToggle to 1.4.0.
+### Updates
+
+Updated FlashlightToggle to 1.4.0.
 
 # 1.8.0
 
-Added [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/).
+### Additions
 
-Added [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/).
+#### [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
 
-Added [Space Pajamas Suit](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/).
+Added this instead of AdditionalSuits to support adding more suits.
 
-Added [GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/).
+#### [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
 
-Added [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/).
+Oh yeah we're going big into the suits department, we need this.
 
-Update Helmet_Cameras to 2.1.4.
+#### [Space Pajamas Suit](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/)
+
+Space pajamas, nuff said.
+
+#### [GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)
+
+I remember watching these guys on America's Got Talent.
+
+### Updates
+
+Updated Helmet_Cameras to 2.1.4.
+
+### Removals
 
 Removed AdditionalSuits.
 
 # 1.7.0
 
-Added [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/), which adds more cosmetics to MoreCompany.
+### Additions
 
-Replaced LateCompany with [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/).
+#### [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/)
 
-Added [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/).
+Adds more cosmetics to MoreCompany.
 
-Added [FixCentipedeLag](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/).
+#### [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)
 
-Added [UnlimitedPaint](https://thunderstore.io/c/lethal-company/p/Mischief/UnlimitedPaint/).
+This replaces LateCompany and hopefully fixes some occasionall weirdness.
 
+#### [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+
+Who doesn't like new twists?
+
+#### [FixCentipedeLag](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/)
+
+Discovered the random lag spikes was probably centipedes.
+
+#### [UnlimitedPaint](https://thunderstore.io/c/lethal-company/p/Mischief/UnlimitedPaint/)
+
+I regret this.
+
+### Updates
 
 Update More_Emotes to 1.1.2, update LethalThings to 1.7.1, update Lategame_Upgrades to 2.5.1.
 
+### Removals
+
+Removed LateCompany
+
 # 1.6.3
+
+### Updates
 
 Updates to mods for v45 support. LC_API updated to 2.1.2, LethalLib updated to 0.6.2, MoreCompany updated to 1.7.1, SpectateEnemies updated to 1.4.0, LethalThings updated to 0.7.0, Skinwalkers updated to 2.0.0, LethalFashion updated to 1.0.4, Lategame_Upgrades updated to 1.0.4.
 
 # 1.6.2
 
+### Updates
+
 Update LethalLib to 0.6.0, LethalThings to 0.6.0, and More_Emotes to 1.1.1.
 
 # 1.6.1
 
-Add [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) to combat losing items when saving. Remove baboon hawk from Skinwalker config, add forest giant and earth worm.
+### Additions
+
+#### [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)
+
+Hitting the cap was probably why items kept going missing, this hopefully fixes that.
+
+### Updates
+
+Remove baboon hawk from Skinwalker config, add forest giant and earth worm.
 
 # 1.6.0
+
+### Updates
 
 Update MoreCompany to 1.7.0. Change emote hotkeys to be F1 for point, F2 for middle finger, F3 for clap, F4 for shy, F5 for dance, and F6 for griddy dance. Update Skinwalkers mod so only Brackens, Ghost Girl, Jester, and Baboon Hawks copy voices
 
 # 1.5.0
 
-Add [MoreEmotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) mod and config override to change keys.
+### Additions
+
+#### [MoreEmotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+
+More emotes are always a good thing, right? Added config override for emote hotkeys.
 
 # 1.4.2
 
-Update Skinwalkers & LethalThings version.
+### Updates
+
+Updated Skinwalkers & LethalThings version.
 
 # 1.4.1
 
-Update Skinwalkers & LethalThings version, add explicit dependencies.
+### Updates
+
+Updated Skinwalkers & LethalThings version, and added explicit dependencies.
 
 # 1.4.0
 
