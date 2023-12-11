@@ -1,3 +1,14 @@
+
+# 1.9.1
+
+### Updates
+
+Updated SpectateEnemies to 1.5.0, More_Emotes to 1.1.3, and  EmployeeAssignments to 1.0.5.
+
+### Other
+
+Added helmetcameras config to change resolution.
+
 # 1.9.0
 
 ### Additions
