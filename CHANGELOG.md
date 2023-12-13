@@ -1,3 +1,31 @@
+# 1.12.0
+
+### Additions
+
+#### [ToggleMute](https://thunderstore.io/c/lethal-company/p/quackandcheese/ToggleMute/)
+
+Adds a keybind to mute your mic that you can adjust from the settings menu.
+
+#### [LethalCompany InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+
+Dependency of the ToggleMute mod, will also likely be required by additional mods in the future.
+
+#### [ScanFix](https://thunderstore.io/c/lethal-company/p/Nebulaetrix/ScanFix/)
+
+Makes the planetary `scan` more accurate.
+
+#### [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+
+No longer need to set your suit every time you join.
+
+### Updates
+
+More_Suits updated to 1.4.0 & TooManySuits updated to 1.0.4.
+
+### Config
+
+Disabled toolbelt in LethalThings. Made LethalThings Boomba slightly less common. Changed individual purchase settings in Lategame Upgrades to be more global like before, increased 
+
 # 1.11.2
 
 ### Updates
@@ -54,7 +82,7 @@ Updated Mimics to 2.1.0.
 
 Removed WalkieUse, FlashlightToggle, and ItemQuickSwitch.
 
-### Other
+### Config
 
 Enabled colorblind mode for mimics.
 
@@ -64,7 +92,7 @@ Enabled colorblind mode for mimics.
 
 Updated SpectateEnemies to 1.5.0, More_Emotes to 1.1.3, and  EmployeeAssignments to 1.0.5.
 
-### Other
+### Config
 
 Added helmetcameras config to change resolution.
 
@@ -254,7 +282,7 @@ Self explanatory. Basically one of the most useful mods.
 
 #### [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 
-Another nice one. Let's people join late.
+AnConfig nice one. Let's people join late.
 
 #### [ItemQuickSwitch](https://thunderstore.io/c/lethal-company/p/vasanex/ItemQuickSwitch/)
 
