@@ -1,3 +1,12 @@
+# 1.11.1
+
+### Updates
+
+MoreCompany updated to 1.7.2.
+
+### Removals
+
+Removed MoreScreams & Spectators as they were causing serious desync issues.
 
 # 1.11.0
 
