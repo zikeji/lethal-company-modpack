@@ -1,3 +1,13 @@
+# 1.11.2
+
+### Updates
+
+LC_API updated to 2.2.0.
+
+### Changes
+
+Changed MoreEmotes & HotbarPlus configs around so emotes all work properly.
+
 # 1.11.1
 
 ### Updates
