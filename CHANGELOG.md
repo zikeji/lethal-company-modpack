@@ -1,4 +1,36 @@
 
+# 1.10.0
+
+### Additions
+
+#### [Spectators](https://thunderstore.io/c/lethal-company/p/JoshFoRs/Spectators/)
+
+Spy on those that are spying.
+
+#### [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/)
+
+Weather makes loot more valuable. How this makes sense logically, I have no clue. But it does.
+
+#### [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+
+In the event the ItemQuickSwitch mod was causing issues, I've switched t this (which is also more frequently updated) to achieve the hotbar changes that ItemQuickSwitch achieved.
+
+#### [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/), [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) & [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+
+Enough updates have occurred that in my testing these appear to be much more stable.
+
+### Updates
+
+Updated Mimics to 2.1.0.
+
+### Removals
+
+Removed WalkieUse, FlashlightToggle, and ItemQuickSwitch.
+
+### Other
+
+Enabled colorblind mode for mimics.
+
 # 1.9.1
 
 ### Updates
