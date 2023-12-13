@@ -1,4 +1,12 @@
 
+# 1.11.0
+
+### Additions
+
+#### [MoreScreams](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)
+
+It's good for the soul.
+
 # 1.10.0
 
 ### Additions

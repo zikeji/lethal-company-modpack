@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.10.0",
+    "version_number": "1.11.0",
     "website_url": "",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -37,6 +37,7 @@
       "FlipMods-ReservedWalkieSlot-1.4.6",
       "FlipMods-ReservedFlashlightSlot-1.4.5",
       "Blorb-WeatherMultipliers-1.0.0",
+      "egeadam-MoreScreams-1.0.2",
       "tinyhoot-ShipLoot-1.0.0",
       "CapyCat-Solos_Ring_Compass-1.0.3",
       "FlipMods-LetMeLookDown-1.0.1",
