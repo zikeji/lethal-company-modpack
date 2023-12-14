@@ -1,3 +1,9 @@
+# 1.12.1
+
+### Updates
+
+More_Emotes updated to 1.2.1 & SuitSaver updated to 1.1.1.
+
 # 1.12.0
 
 ### Additions
