@@ -1,3 +1,9 @@
+# 1.12.2
+
+### Config
+
+Change Mimics back to old mode (now referred to as easy mode).
+
 # 1.12.1
 
 ### Updates
