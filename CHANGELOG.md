@@ -1,3 +1,13 @@
+# 1.12.3
+
+### Updates
+
+Updates ScanFix to 1.0.3, SuitSaver to 1.1.2, LCBetterSaves to 1.5.0, Coroner to 1.3.0, LethalCompany_InputUtils to 0.4.2, ToggleMute to 1.3.0, LethalLib to 0.6.3, HotbarPlus to 1.3.3, Mimics to 2.2.0, More_Suits to 1.4.1, and Lategame_Upgrades to 2.6.1.
+
+### Config
+
+Update Lategame_Upgrades config to match new version, remove HotbarPlus config section for inverted (removed in new version).
+
 # 1.12.2
 
 ### Config
