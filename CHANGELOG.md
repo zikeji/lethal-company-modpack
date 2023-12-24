@@ -1,8 +1,32 @@
+# 1.13.0
+
+### Additions
+
+#### [BandaidsMegaCosmetics](https://thunderstore.io/c/lethal-company/p/bandaidroo/BandaidsMegaCosmetics/)
+
+More head cosmetics for MoreCompany.
+
+#### [Happy Hats](https://thunderstore.io/c/lethal-company/p/fizzysaur/Happy_Hats/)
+
+These hats certainly made me happy.
+
+#### [Arrow Hat](https://thunderstore.io/c/lethal-company/p/PuffyMods/Arrow_Hat/), [Sims Plumbob](https://thunderstore.io/c/lethal-company/p/PuffyMods/Sims_Plumbob/), [Kick Me](https://thunderstore.io/c/lethal-company/p/PuffyMods/Kick_Me/), & [Dunce Cap](https://thunderstore.io/c/lethal-company/p/PuffyMods/Dunce_Cap/)
+
+A few indiviually packaged cosmetics that look nice.
+
+### Updates
+
+Updates NameplateTweaks to 1.0.5, Coroner to 1.4.2, LCBetterSaves to 1.6.1, AlwaysHearActiveWalkies to 1.4.3, LethalCompany_InputUtils to 0.4.3, ReservedItemSlotCore to 1.6.5, ReservedWalkieSlot to 1.5.0, ReservedFlashlightSlot to 1.5.1, HotbarPlus to 1.3.5, EmployeeAssignments to 1.0.8, BepInUtils to 1.2.1, GlowStickSuits to 1.0.4, Mimics to 2.3.0, More_Emotes to 1.2.2, LethalLib to 0.7.0, Lategame_Upgrades to 2.8.2, and LethalThings 0.8.3.
+
+### Config
+
+Updated HotbarPlus, More_Emotes, Lategame_Upgrades, and LethalThings config to match new version.  
+
 # 1.12.3
 
 ### Updates
 
-Updates ScanFix to 1.0.3, SuitSaver to 1.1.2, LCBetterSaves to 1.5.0, Coroner to 1.3.0, LethalCompany_InputUtils to 0.4.2, ToggleMute to 1.3.0, LethalLib to 0.6.3, HotbarPlus to 1.3.3, Mimics to 2.2.0, More_Suits to 1.4.1, and Lategame_Upgrades to 2.6.1.
+Updated ScanFix to 1.0.3, SuitSaver to 1.1.2, LCBetterSaves to 1.5.0, Coroner to 1.3.0, LethalCompany_InputUtils to 0.4.2, ToggleMute to 1.3.0, LethalLib to 0.6.3, HotbarPlus to 1.3.3, Mimics to 2.2.0, More_Suits to 1.4.1, and Lategame_Upgrades to 2.6.1.
 
 ### Config
 
