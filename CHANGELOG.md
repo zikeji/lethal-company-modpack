@@ -1,3 +1,9 @@
+# 1.13.1
+
+### Updates
+
+Updated LethalLib to 0.8.0, LethalThings to 0.8.8, ReservedItemSlotCore to 1.6.6, WeatherMultipliers to 1.1.0, and Lategame_Upgrades to 2.8.3.
+
 # 1.13.0
 
 ### Additions
