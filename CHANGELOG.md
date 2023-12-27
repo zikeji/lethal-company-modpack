@@ -1,3 +1,13 @@
+# 1.13.2
+
+### Updates
+
+Updated LethalLib to 0.9.0 and HotbarPlus to 1.4.2.
+
+### Config
+
+Updated HotBarPlus config to match 1.4.2.
+
 # 1.13.1
 
 ### Updates
