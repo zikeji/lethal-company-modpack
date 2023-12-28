@@ -1,3 +1,13 @@
+# 1.13.3
+
+### Updates
+
+Updated Coroner to 1.5.0, ReservedItemSlotCore to 1.7.0, HotbarPlus to 1.4.4, SpectateEnemies to 2.0.0, and Happy_Hats to 2.0.0.
+
+### Config
+
+Updated HotBarPlus config to match 1.4.4.
+
 # 1.13.2
 
 ### Updates
