@@ -1,3 +1,9 @@
+# 1.13.4
+
+### Updates
+
+Updated LethalCompany_InputUtils to 0.4.4 and Lategame_Upgrades to 2.8.5.
+
 # 1.13.3
 
 ### Updates
