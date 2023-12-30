@@ -1,3 +1,47 @@
+# 1.14.0
+
+### Additions
+
+#### [ReservedSprayPaintSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/)
+
+Spray paint for the win!
+
+#### [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
+
+Find out for yourself.
+
+#### [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)
+
+For the people who like looking at themselves.
+
+#### [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+
+Because I'm evil and want to be there when someone gets scared by this.
+
+#### [JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)
+
+I have noticed a delay at times, so this will hopefully solve those.
+
+#### [MoreScreams](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)
+
+Add this back (voice transmits just a little bit longer after death).
+
+#### [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+
+Fix the issues with spray paint.
+
+#### [QuotaRollover](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/)
+
+#### [NoPenalty](https://thunderstore.io/c/lethal-company/p/bizzlemip/NoPenalty/)
+
+#### [BoomBoxNoPower](https://thunderstore.io/c/lethal-company/p/TV23/BoomBoxNoPower/)
+
+#### [ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)
+
+### Removals
+
+Removed UnlimitedPaint as it was replaced with BetterSprayPaint
+
 # 1.13.5
 
 ### Updates
