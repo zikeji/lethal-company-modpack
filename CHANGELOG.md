@@ -1,3 +1,9 @@
+# 1.14.1
+
+### Updates
+
+Updated Coroner to 1.5.3.
+
 # 1.14.0
 
 ### Additions

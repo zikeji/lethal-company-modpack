@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.14.0",
+    "version_number": "1.14.1",
     "website_url": "https://github.com/zikeji/lethal-company-modpack",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -43,7 +43,7 @@
       "Nebulaetrix-ScanFix-1.0.3",
       "Hexnet111-SuitSaver-1.1.2",
       "Pooble-LCBetterSaves-1.6.1",
-      "EliteMasterEric-Coroner-1.5.1",
+      "EliteMasterEric-Coroner-1.5.3",
       "Suskitech-AlwaysHearActiveWalkies-1.4.3",
       "bandaidroo-BandaidsMegaCosmetics-1.0.0",
       "fizzysaur-Happy_Hats-2.0.0",
