@@ -1,3 +1,9 @@
+# 1.13.5
+
+### Updates
+
+Updated Coroner to 1.5.1, LC_API to 3.2.2, ReservedItemSlotCore to 1.7.1, ReservedFlashlightSlot to 1.5.2, and ReservedWalkieSlot to 1.5.1.
+
 # 1.13.4
 
 ### Updates
