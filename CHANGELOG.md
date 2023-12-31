@@ -1,3 +1,9 @@
+# 1.14.2
+
+### Updates
+
+Updated ReservedItemSlotCore to 1.7.2 & updated HotbarPlus to 1.4.5.
+
 # 1.14.1
 
 ### Updates
@@ -38,11 +44,19 @@ Fix the issues with spray paint.
 
 #### [QuotaRollover](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/)
 
+Removes the penalty for over conntributing to quota, making overrage rollover to the next quota. A QOL change.
+
 #### [NoPenalty](https://thunderstore.io/c/lethal-company/p/bizzlemip/NoPenalty/)
+
+Another QOL change, the death penalty normally is an issue when we mess around at the company building, and doesn't happen often when we're on industrial moons, so we've decide to nix the penalty.
 
 #### [BoomBoxNoPower](https://thunderstore.io/c/lethal-company/p/TV23/BoomBoxNoPower/)
 
+A QOL change? Yup. Boombox now immortal.
+
 #### [ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)
+
+There might be a theme here... Another QOL change. This just gives you slightly more starting dosh.
 
 ### Removals
 

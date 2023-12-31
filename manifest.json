@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.14.1",
+    "version_number": "1.14.2",
     "website_url": "https://github.com/zikeji/lethal-company-modpack",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -31,8 +31,8 @@
       "ViViKo-SquidGameSuits-1.0.1",
       "Dwarggo-Fashion_Company-1.2.0",
       "amnsoft-EmployeeAssignments-1.0.8",
-      "FlipMods-HotbarPlus-1.4.4",
-      "FlipMods-ReservedItemSlotCore-1.7.1",
+      "FlipMods-HotbarPlus-1.4.5",
+      "FlipMods-ReservedItemSlotCore-1.7.2",
       "FlipMods-ReservedWalkieSlot-1.5.1",
       "FlipMods-ReservedFlashlightSlot-1.5.2",
       "FlipMods-ReservedSprayPaintSlot-1.0.2",
