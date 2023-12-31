@@ -30,6 +30,10 @@ Experimental addition to see if it cuts back on the occasional lag spikes.
 
 Fix some flashlight related bugs.
 
+### Updates
+
+Updated EmployeeAssignments to 1.1.0
+
 ### Config
 
 Updated MoreScreams to only broadcast 1 extra second, not 2.
