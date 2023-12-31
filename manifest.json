@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.14.2",
+    "version_number": "1.15.0",
     "website_url": "https://github.com/zikeji/lethal-company-modpack",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -15,9 +15,7 @@
       "quackandcheese-MirrorDecor-1.2.0",
       "RugbugRedfern-Skinwalkers-2.0.1",
       "BatTeam-LethalFashion-1.0.4",
-      "malco-Lategame_Upgrades-2.8.5",
       "Sligili-More_Emotes-1.2.2",
-      "EliteMasterEric-WackyCosmetics-1.1.0",
       "tinyhoot-ShipLobby-1.0.2",
       "x753-Mimics-2.3.0",
       "MassiveNewCoilers-FixCentipedeLag-2023.12.7",
@@ -31,13 +29,7 @@
       "ViViKo-SquidGameSuits-1.0.1",
       "Dwarggo-Fashion_Company-1.2.0",
       "amnsoft-EmployeeAssignments-1.0.8",
-      "FlipMods-HotbarPlus-1.4.5",
-      "FlipMods-ReservedItemSlotCore-1.7.2",
-      "FlipMods-ReservedWalkieSlot-1.5.1",
-      "FlipMods-ReservedFlashlightSlot-1.5.2",
-      "FlipMods-ReservedSprayPaintSlot-1.0.2",
       "Blorb-WeatherMultipliers-1.1.0",
-      "Jordo-NeedyCats-1.0.2",
       "quackandcheese-ToggleMute-1.3.0",
       "Rune580-LethalCompany_InputUtils-0.4.4",
       "Nebulaetrix-ScanFix-1.0.3",
@@ -61,7 +53,6 @@
       "5Bit-FPSSpectate-1.0.1",
       "5Bit-VoiceHUD-1.0.4",
       "bizzlemip-NoPenalty-1.0.1",
-      "TV23-BoomBoxNoPower-1.0.0",
       "taffyko-NameplateTweaks-1.0.5",
       "Sv_Matt-HideModList-1.0.1",
       "Drakorle-MoreItems-1.0.1",
@@ -69,6 +60,11 @@
       "egeadam-MoreScreams-1.0.3",
       "taffyko-BetterSprayPaint-1.1.0",
       "boxofbiscuits97-QuotaRollover-2.1.0",
-      "sunnobunno-ScalingStartCredits-1.0.1"
+      "TheFluff-FairAI-1.2.4",
+      "SalakStudios-BetterShotgunShells-1.0.1",
+      "FlipMods-FasterItemDropship-1.2.0",
+      "Electric131-OuijaBoard-1.5.0",
+      "linkoid-DissonanceLagFix-1.0.0",
+      "ShaosilGaming-FlashlightFix-1.0.5"
     ]
   }

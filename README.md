@@ -2,6 +2,10 @@
 
 I got tired of sending my friends a list of mods and all that fun stuff, so here we go.
 
+## Updating to 1.15.0
+
+Uninstall NeedyCats, ScalingStartCredits, BoomBoxNoPower, HotbarPlus, ReservedItemSlotCore, ReservedWalkieSlot, ReservedFlashlightSlot, ReservedSprayPaintSlot, & Lategame_Upgrades.
+
 ## Updating to 1.14.0
 
 Uninstall UnlimitedPaint.

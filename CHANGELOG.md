@@ -1,3 +1,59 @@
+# 1.15.0
+
+### Additions
+
+#### [MikesTweaks](https://thunderstore.io/c/lethal-company/p/MikeMediaStudios/MikesTweaks/)
+
+Added some tweaks (and tweaked them).
+
+#### [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
+
+Makes the enemies vulnerable to mines. What more could you want?
+
+#### [BetterShotgunShells](https://thunderstore.io/c/lethal-company/p/SalakStudios/BetterShotgunShells/)
+
+Makes it so you can find shells and that you can buy them (for a prohibitive amount).
+
+#### [FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
+
+Enough with the slow dropship!
+
+#### [OuijaBoard](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/)
+
+Talking to your dead teammates? Yes please.
+
+#### [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/)
+
+Experimental addition to see if it cuts back on the occasional lag spikes.
+
+#### [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
+
+Fix some flashlight related bugs.
+
+### Config
+
+Updated MoreScreams to only broadcast 1 extra second, not 2.
+
+Updated CoilHeadStare to be a bit more noticeable.
+
+Disabled utility belt & rocket launcher in LethalThings.
+
+### Removals
+
+Removed NeedyCats due to causing game breaking bugs.
+
+Removed ScalingStartCredits due to not working properly.
+
+Removed BoomBoxNoPower due to not really making a noticable QOL difference and causing potential bugs in terms of whether we can hear it playing properly.
+
+Removed HotbarPlus due to 1.4.5 being completely broken and the chance of it causing serious issues that MikesTweaks sounds like it'll fix.
+
+Removed ReservedItemSlotCore, ReservedWalkieSlot, ReservedFlashlightSlot, & ReservedSprayPaintSlot we'll keep the 6 default slots from MikesTweaks and let those kind of replace the reserved slots.
+
+Removed WackyCosmetics as the cosmetics aren't being used anymore.
+
+Removed Lategame_Upgrades due to conflict with Mike's Tweaks and made some changes to kind of balance the two.
+
 # 1.14.2
 
 ### Updates
