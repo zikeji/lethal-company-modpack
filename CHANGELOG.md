@@ -32,7 +32,7 @@ Fix some flashlight related bugs.
 
 ### Updates
 
-Updated EmployeeAssignments to 1.1.0
+Updated EmployeeAssignments to 1.1.0 & MirrorDecor to 1.2.1.
 
 ### Config
 
