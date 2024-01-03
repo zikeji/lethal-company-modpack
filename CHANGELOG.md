@@ -1,3 +1,19 @@
+# 1.16.0
+
+### Additions
+
+#### [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+
+Who doesn't like a plethora of emotes? No, seriously, tell me. We need to have words.
+
+### Updates
+
+Updated LethalLib to 0.10.1, LC_API to 3.2.3, SpectateEnemies to 2.1.1, TooManySuits to 1.0.5, & FairAI to 1.2.5.
+
+### Configs
+
+Added config for OuijaBoard making it spawn inside and product no sound that enemies can hear. Added mirrordecor config making it free. Updated mikestweaks config to adjust sprint speed & time scale.
+
 # 1.15.0
 
 ### Additions

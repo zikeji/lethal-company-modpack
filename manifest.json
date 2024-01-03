@@ -1,16 +1,16 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.15.0",
+    "version_number": "1.16.0",
     "website_url": "https://github.com/zikeji/lethal-company-modpack",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
       "BepInEx-BepInExPack-5.4.2100",
-      "2018-LC_API-3.2.2",
+      "2018-LC_API-3.2.3",
       "Ozone-BepInUtils-1.2.1",
-      "Evaisa-LethalLib-0.9.0",
+      "Evaisa-LethalLib-0.10.1",
       "Evaisa-HookGenPatcher-0.0.5",
       "notnotnotswipez-MoreCompany-1.7.2",
-      "AllToasters-SpectateEnemies-2.0.0",
+      "AllToasters-SpectateEnemies-2.1.1",
       "Evaisa-LethalThings-0.8.8",
       "quackandcheese-MirrorDecor-1.2.1",
       "RugbugRedfern-Skinwalkers-2.0.1",
@@ -21,7 +21,7 @@
       "MassiveNewCoilers-FixCentipedeLag-2023.12.7",
       "RickArg-Helmet_Cameras-2.1.5",
       "x753-More_Suits-1.4.1",
-      "Verity-TooManySuits-1.0.4",
+      "Verity-TooManySuits-1.0.5",
       "Crab_imitation-Space_Pajamas_Suit-1.0.6",
       "Norman-GlowStickSuits-1.0.4",
       "404_Dom-Doms_Basic_Suit_Colors-1.4.4",
@@ -61,11 +61,12 @@
       "taffyko-BetterSprayPaint-1.1.0",
       "boxofbiscuits97-QuotaRollover-2.1.0",
       "MikeMediaStudios-MikesTweaks-2.0.2",
-      "TheFluff-FairAI-1.2.4",
+      "TheFluff-FairAI-1.2.5",
       "SalakStudios-BetterShotgunShells-1.0.1",
       "FlipMods-FasterItemDropship-1.2.0",
       "Electric131-OuijaBoard-1.5.0",
       "linkoid-DissonanceLagFix-1.0.0",
-      "ShaosilGaming-FlashlightFix-1.0.5"
+      "ShaosilGaming-FlashlightFix-1.0.5",
+      "FlipMods-TooManyEmotes-1.6.3"
     ]
   }
