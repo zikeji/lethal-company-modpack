@@ -1,3 +1,13 @@
+# 1.16.1
+
+### Updates
+
+Updated MirrorDecor to 1.2.2 and LC_API to 3.2.4.
+
+### Configs
+
+Added NameplateTweaks config to make the experience closer to vanilla.
+
 # 1.16.0
 
 ### Additions
