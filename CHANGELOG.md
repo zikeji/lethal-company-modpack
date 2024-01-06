@@ -1,3 +1,39 @@
+# 1.17.1
+
+A fucking patch because my sister left out critical fucking demands last second. If you some how managed to catch 1.17.0 before the cache transitioned over go suck a dick.
+
+### Additions
+
+#### ReservedSlotCore/Walkie/Flashlight
+
+These 3 mods back despite all their issues we've continuously experienced because... reasons?
+
+#### [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+
+To replace ShipLoot. I may not have fucking tested it yet but we're making last fucking minute changes so why the hell not?
+
+#### [PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)
+
+"a fun surprise" - Sun Tzu (don't doubt)
+
+#### [HornMoan](https://thunderstore.io/c/lethal-company/p/MetalPipeSFX/HornMoan/)
+
+Another one - Sun Tzu
+
+#### [DynamicDeadline](https://thunderstore.io/c/lethal-company/p/Krayken/DynamicDeadline/)
+
+Instead of the rolling quota let's try an increasing deadline.
+
+#### [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
+
+Refer to PushCompany.
+
+### Removals
+
+QuotaRollover because the bonus it gives is broken. Why doesn't the author have any form of contact info? No fucking clue don't fucking look at me. Fuck off.
+
+ShipLoot because it's older than fucking God himself.
+
 # 1.17.0
 
 ### Additions

@@ -1,6 +1,6 @@
 {
     "name": "Zikeji_s_Convenience_Modpack",
-    "version_number": "1.17.0",
+    "version_number": "1.17.1",
     "website_url": "https://github.com/zikeji/lethal-company-modpack",
     "description": "Just a pack of mods for friends.",
     "dependencies": [
@@ -44,7 +44,6 @@
       "PuffyMods-Kick_Me-1.1.0",
       "PuffyMods-Dunce_Cap-1.1.0",
       "TwinDimensionalProductions-CoilHeadStare-1.0.3",
-      "tinyhoot-ShipLoot-1.0.0",
       "CapyCat-Solos_Ring_Compass-1.0.3",
       "FlipMods-LetMeLookDown-1.0.1",
       "FlipMods-ObjectVolumeController-1.0.3",
@@ -59,7 +58,6 @@
       "monkes_mods-JumpDelayPatch-1.0.1",
       "egeadam-MoreScreams-1.0.3",
       "taffyko-BetterSprayPaint-1.1.0",
-      "boxofbiscuits97-QuotaRollover-2.1.0",
       "MikeMediaStudios-MikesTweaks-2.0.2",
       "TheFluff-FairAI-1.2.6",
       "SalakStudios-BetterShotgunShells-1.0.1",
@@ -68,6 +66,14 @@
       "linkoid-DissonanceLagFix-1.0.0",
       "ShaosilGaming-FlashlightFix-1.0.5",
       "FlipMods-TooManyEmotes-1.6.3",
-      "malco-Lategame_Upgrades-2.8.6"
+      "malco-Lategame_Upgrades-2.8.6",
+      "FlipMods-ReservedItemSlotCore-1.7.7",
+      "FlipMods-ReservedFlashlightSlot-1.5.5",
+      "FlipMods-ReservedWalkieSlot-1.5.3",
+      "PopleZoo-BetterItemScan-2.1.8",
+      "Midge-PushCompany-1.2.0",
+      "MetalPipeSFX-HornMoan-2.1.0",
+      "Krayken-DynamicDeadline-1.2.2",
+      "Backrooms-Backrooms-0.1.3"
     ]
   }
