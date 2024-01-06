@@ -1,3 +1,19 @@
+# 1.17.0
+
+### Additions
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+This is back, for now.
+
+### Updates
+
+LC_API updated to 3.3.0, FairAI updated to 1.2.6, and FasterItemDropship updated to 1.2.1.
+
+### Configs
+
+Update Skinwalker config to include more enemies. Add back in stripped down LGU stuff. Turn off FairAI's turret changes.
+
 # 1.16.1
 
 ### Updates
