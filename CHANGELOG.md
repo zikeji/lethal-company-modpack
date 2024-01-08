@@ -1,24 +1,31 @@
+# 1.17.2
+
+### Updates
+
+Updated [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) updated to 3.0.0, [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) updated to 1.2.7, [Fashion_Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/) updated to 1.3.0, [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) updated to 2.3.1, [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/) updated to 1.2.3, [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/) updated to 1.0.6, [OuijaBoard](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/) updated to 1.5.1, [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) updated to 1.5.7, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 2.0.2, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) 
+updated to 1.7.6.
+
 # 1.17.1
 
-A fucking patch because my sister left out critical fucking demands last second. If you some how managed to catch 1.17.0 before the cache transitioned over go suck a dick.
+A quick patch instead of a minor version update due to the proximity.
 
 ### Additions
 
 #### ReservedSlotCore/Walkie/Flashlight
 
-These 3 mods back despite all their issues we've continuously experienced because... reasons?
+Giving these mods another chance for.. reasons?
 
 #### [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
 
-To replace ShipLoot. I may not have fucking tested it yet but we're making last fucking minute changes so why the hell not?
+To replace ShipLoot, which hasn't been updated in a hot minute.
 
 #### [PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)
 
-"a fun surprise" - Sun Tzu (don't doubt)
+Violence is the answer.
 
 #### [HornMoan](https://thunderstore.io/c/lethal-company/p/MetalPipeSFX/HornMoan/)
 
-Another one - Sun Tzu
+Nice. For a drunk night.
 
 #### [DynamicDeadline](https://thunderstore.io/c/lethal-company/p/Krayken/DynamicDeadline/)
 
@@ -26,13 +33,17 @@ Instead of the rolling quota let's try an increasing deadline.
 
 #### [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
 
-Refer to PushCompany.
+Let's add some flavor.
 
 ### Removals
 
-QuotaRollover because the bonus it gives is broken. Why doesn't the author have any form of contact info? No fucking clue don't fucking look at me. Fuck off.
+#### QuotaRollover
 
-ShipLoot because it's older than fucking God himself.
+Unfortunately the mod allows your overtime bonus to be calculated based on the overrage, which is broken. It would ideally modify the overtime calculation to not take into account the overrage. The author has no contact info so there is no way to suggest this.
+
+#### ShipLoot
+
+This mod is fairly outdated, and while we aren't certain it is causing issues - it's time to be replaced.
 
 # 1.17.0
 
