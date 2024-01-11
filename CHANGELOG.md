@@ -1,3 +1,9 @@
+# 1.17.3
+
+### Updates
+
+Updated [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) updated to 1.2.8, [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) updated to 1.7.0, [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) updated to 3.3.2, [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 2.8.8, [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) updated to 1.0.5, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.11.1, [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) updated to 2.3.2, [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.7.4, [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) updated to 1.3.2, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 1.8.5, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 2.0.6, [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.2.1, [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) updated to 1.1.4, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.7.8.
+
 # 1.17.2
 
 ### Updates
