@@ -1,3 +1,9 @@
+# 1.17.4
+
+### Updates
+
+Updated [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) updated to 1.0.6, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.11.2, [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) updated to 0.9.4, [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) updated to 1.0.2, [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) updated to 1.3.3, [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) updated to 1.5.8, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 1.8.8, [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 1.5.4, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.7.9.
+
 # 1.17.3
 
 ### Updates
