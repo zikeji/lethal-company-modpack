@@ -1,3 +1,49 @@
+# 1.18.0
+
+### Additions
+
+#### [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) & [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)
+
+To support those that want to add their own clientside sound changes, seeing as these appear to be required host side for whatever reason.
+
+#### [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+
+We liked when we didn't know who was masked. This helps.
+
+#### [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+
+TikTok memes, y'know? This looked interesting.
+
+#### [Skibidi_Toilet](https://thunderstore.io/c/lethal-company/p/rileyzzz/Skibidi_Toilet/)
+
+SKIBIDI BOP
+
+#### [NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/)
+
+Finally!
+
+#### [SCP_Suits](https://thunderstore.io/c/lethal-company/p/FEB/SCP_Suits/) & [CudisRealisticSuits](https://thunderstore.io/c/lethal-company/p/kidcudilovers/CudisRealisticSuits/) 
+
+It's been a while since styles were added.
+
+### Updates
+
+Updated [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.5.4, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.12.1, [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) updated to 1.0.4, [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) updated to 1.5.10, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 1.8.10, [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 1.5.5, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 3.0.1, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.7.10.
+
+### Configs
+
+Added a tamed down config for PushCompany and a config for BetterItemScan that prevents the total from showing for the ship.
+
+### Removals
+
+#### [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
+
+Removed due to being in a somewhat incomplete state.
+
+#### [Glow_Steps](https://thunderstore.io/c/lethal-company/p/Ozone/Glow_Steps/)
+
+We've grown past this, plus it meshes well with masked enemy overhaul.
+
 # 1.17.4
 
 ### Updates
