@@ -1,3 +1,9 @@
+# 1.18.1
+
+### Updates
+
+Updated [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.5.5 and [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.5.5.
+
 # 1.18.0
 
 ### Additions
