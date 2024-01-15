@@ -1,3 +1,9 @@
+# 1.18.2
+
+### Updates
+
+Updated [BetterShotgunShells](https://thunderstore.io/c/lethal-company/p/SalakStudios/BetterShotgunShells/) updated to 1.0.2, [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) updated to 3.4.0, and [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 3.0.1.
+
 # 1.18.1
 
 ### Updates
