@@ -1,3 +1,13 @@
+# 1.18.3
+
+### Updates
+
+Updated [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) updated to 1.4.4, [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) updated to 3.4.1, [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 3.0.2, [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) updated to 3.0.0, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 4.0.0, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.7.11.
+
+### Config
+
+Added Diversity config.
+
 # 1.18.2
 
 ### Updates
