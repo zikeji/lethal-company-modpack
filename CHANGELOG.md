@@ -1,3 +1,37 @@
+# 1.19.0
+
+### Additions
+
+#### [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/)
+
+Trying this out. Should be interesting.
+
+#### [Boombox_Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
+
+I keep adding this to the instructions but make people recreate their profile anyway.
+
+#### [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
+
+A special request.
+
+### Updates
+
+Updated [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) updated to 2.3.1, [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) updated to 1.3.0, [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) updated to 1.7.2, [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) updated to 1.5.0, [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) updated to 3.4.5, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.13.2, [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) updated to 3.1.0, [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/) updated to 1.3.0, [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.7.5, [OuijaBoard](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/) updated to 1.5.2, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.8.0.
+
+### Removals
+
+#### [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/), [DynamicDeadline](https://thunderstore.io/c/lethal-company/p/Krayken/DynamicDeadline/), [MikesTweaks](https://thunderstore.io/c/lethal-company/p/MikeMediaStudios/MikesTweaks/), [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)
+
+Functionality is in [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/).
+
+#### [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/), [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/), [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+
+Incompatible with [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/).
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+Since [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) implements a perk system, we will wait and see if we want to bring LGU back into the fold.
+
 # 1.18.3
 
 ### Updates
