@@ -1,3 +1,19 @@
+# 1.19.1
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.0.131, [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) updated to 3.0.1, [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) updated to 2.0.1, [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) updated to 2.3.2, [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) updated to 1.3.1, [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) updated to 1.7.3, [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.6.0, [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) updated to 3.1.1, [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/) updated to 1.3.1, [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.7.6, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 4.0.1, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.8.1.
+
+### Removals
+
+#### [FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
+
+Replaced by functionality in AdvancedCompany.
+
+#### [Skibidi_Toilet](https://thunderstore.io/c/lethal-company/p/rileyzzz/Skibidi_Toilet/)
+
+Funny, but old.
+
 # 1.19.0
 
 ### Additions
