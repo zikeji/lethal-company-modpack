@@ -1,3 +1,15 @@
+# 1.19.2
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.0.136.
+
+### Removals
+
+#### [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+
+Causing audio bugs.
+
 # 1.19.1
 
 ### Updates
