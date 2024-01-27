@@ -1,3 +1,22 @@
+# 1.20.0
+
+### Additions
+
+#### [ScaledPenalties](https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/)
+
+Hopefully the penalties are a tad bit more fair.
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.0.138, [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) updated to 2.0.2, [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) 
+updated to 1.0.7, and [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.6.1.
+
+### Removals
+
+#### [NoPenalty](https://thunderstore.io/c/lethal-company/p/bizzlemip/NoPenalty/)
+
+Lack of a penalty has been too OP. Replaced with scaling penalties.
+
 # 1.19.2
 
 ### Updates
