@@ -1,3 +1,45 @@
+# 1.21.0     
+
+### Additions
+
+#### [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
+
+Fix this annoying shit.
+
+#### [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
+
+Boss NG+.
+
+#### [EmissiveSuits](https://thunderstore.io/c/lethal-company/p/Crab_imitation/EmissiveSuits/)
+
+More colors.
+
+#### [MoreMaterials](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/)
+
+Requirement of for [ViViKoCosmetics](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics/).
+
+#### [ViViKoCosmetics](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics/)
+
+More outfits!
+
+#### [LethalPlushies](https://thunderstore.io/c/lethal-company/p/Nuts/LethalPlushies/)
+
+More loot!
+
+#### [LethalExpansionCore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/)
+
+Requirement of [LethalPlushies](https://thunderstore.io/c/lethal-company/p/Nuts/LethalPlushies/).
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.0.143, [BandaidsMegaCosmetics](https://thunderstore.io/c/lethal-company/p/bandaidroo/BandaidsMegaCosmetics/) updated to 1.1.0, [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) updated to 1.3.2, [Fashion_Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/) updated to 1.3.1, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.14.2, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.8.5.
+
+### Removals
+
+#### [SquidGameSuits](https://thunderstore.io/c/lethal-company/p/ViViKo/SquidGameSuits/)
+
+Part of [ViViKoCosmetics](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics/).
+
 # 1.20.0
 
 ### Additions
