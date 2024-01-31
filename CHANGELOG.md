@@ -1,3 +1,11 @@
+# 1.21.2
+
+### Additions
+
+#### [LethalEscape](https://thunderstore.io/c/lethal-company/p/xCeezy/LethalEscape/)
+
+Oops
+
 # 1.21.1
 
 ### Removals
