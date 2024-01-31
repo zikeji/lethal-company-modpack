@@ -1,3 +1,11 @@
+# 1.21.1
+
+### Removals
+
+#### [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/)
+
+Causing audio bugs.
+
 # 1.21.0     
 
 ### Additions
