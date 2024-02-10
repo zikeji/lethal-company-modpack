@@ -1,3 +1,33 @@
+# 1.23.0
+
+### Additions
+
+#### [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
+
+Give a little extra.. Oomph.. To that appy.
+
+#### [Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)
+
+Looks good.
+
+#### [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/)
+
+More stuff yuzz.
+
+#### [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) & [CSync](https://thunderstore.io/c/lethal-company/p/Owen3H/CSync/)
+
+Dependencies.
+
+### Removals
+
+#### [TerminalExtras](https://thunderstore.io/c/lethal-company/p/anormaltwig/TerminalExtras/)
+
+Since I'm adding TerminalApi for another dependency, I'm switching to a more feature packed terminal mod.
+
+#### [ShipClock](https://thunderstore.io/c/lethal-company/p/ATK/ShipClock/)
+
+Removed in favor of terminal clock and corporate restructure.
+
 # 1.22.0
 
 ### Additions
