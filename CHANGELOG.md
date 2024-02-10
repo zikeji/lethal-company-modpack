@@ -1,3 +1,25 @@
+# 1.24.0
+
+### Additions
+
+#### [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) & [LETHAL_RESONANCE_MELTDOWN](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHAL_RESONANCE_MELTDOWN/)
+
+Was watching a YT video where they had this. Was nice.
+
+#### [ImmersiveScraps](https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/)
+
+Add some more scrap. Yar.
+
+#### [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) & [PizzaTowerEscapeMusic](https://thunderstore.io/c/lethal-company/p/BGN/PizzaTowerEscapeMusic/)
+
+A dependency of LETHALRESONANCE.
+
+### Removals
+
+#### [HornMoan](https://thunderstore.io/c/lethal-company/p/MetalPipeSFX/HornMoan/)
+
+Overstayed it's welcome.
+
 # 1.23.1
 
 ### Additions
