@@ -1,3 +1,34 @@
+# 1.22.0
+
+### Additions
+
+#### [UnlimitedTZP](https://thunderstore.io/c/lethal-company/p/ATK/UnlimitedTZP/)
+
+Gotta go faaaaast.
+
+#### [TerminalExtras](https://thunderstore.io/c/lethal-company/p/anormaltwig/TerminalExtras/) & [FastSwitchPlayerViewInRadar](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar/)
+
+Terminal improvements.
+
+#### [Scoopys_Variety_Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/), [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) & [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
+
+More level interiors.
+
+#### [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/), [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/), & [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)
+
+Various dependencies.
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.0.149, [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/) updated to 1.2.2, [Boombox_Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/) updated to 1.2.1, [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) updated to 1.0.6, [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) updated to 
+1.6.0, [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) updated to 1.1.0, [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) updated to 1.5.1, [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.6.3, [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) updated to 3.1.2, [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/) updated to 1.3.2, [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.8.1, [OuijaBoard](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/) updated to 1.5.3, [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.3.1, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.8.6.
+
+### Removals
+
+#### [FixCentipedeLag](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/)
+
+Honestly I've  just decided that finding bugged out dead centipedes isn't worth the trade off of occasional lag spikes.
+
 # 1.21.2
 
 ### Additions
