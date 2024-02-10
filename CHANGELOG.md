@@ -1,3 +1,11 @@
+# 1.23.1
+
+### Additions
+
+#### [Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
+
+Already installed if you did 1.23.1, I somehow missed adding this dependency.
+
 # 1.23.0
 
 ### Additions
