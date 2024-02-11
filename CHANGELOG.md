@@ -1,3 +1,15 @@
+# 1.24.1
+
+### Updates
+
+Updated [LETHAL_RESONANCE_MELTDOWN](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHAL_RESONANCE_MELTDOWN/) updated to 1.1.6.
+
+### Removals
+
+#### [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/), [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/), [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/), [Scoopys_Variety_Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/), & [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/)
+
+Possibly causing issues with joining the game and other various things.
+
 # 1.24.0
 
 ### Additions
