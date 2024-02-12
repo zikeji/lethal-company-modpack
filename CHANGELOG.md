@@ -1,3 +1,15 @@
+# 1.24.3
+
+### Additions
+
+#### [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)
+
+We can all relate.
+
+#### [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/)
+
+AAAAEEEEEEEUUUU
+
 # 1.24.2
 
 ### Updates
