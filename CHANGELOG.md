@@ -1,3 +1,15 @@
+# 1.24.2
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.1.9.
+
+### Removals
+
+#### [Boombox_Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
+
+Not used.
+
 # 1.24.1
 
 ### Updates
