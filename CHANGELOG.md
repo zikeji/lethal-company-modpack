@@ -1,3 +1,11 @@
+# 1.24.4
+
+### Additions
+
+#### [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
+
+Meow
+
 # 1.24.3
 
 ### Additions
