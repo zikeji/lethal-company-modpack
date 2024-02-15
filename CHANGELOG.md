@@ -1,3 +1,15 @@
+# 1.24.5
+
+### Additions
+
+#### [NikkisCosmeticKingdom](https://thunderstore.io/c/lethal-company/p/Nikki/NikkisCosmeticKingdom/)
+
+More cosmetics.
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.1.1, [CSync](https://thunderstore.io/c/lethal-company/p/Owen3H/CSync/) updated to 1.0.8, [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.0.8, [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) updated to 2.4.0, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.9.1.
+
 # 1.24.4
 
 ### Additions
