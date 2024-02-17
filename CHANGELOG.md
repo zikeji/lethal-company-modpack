@@ -1,3 +1,29 @@
+# 1.26.0
+
+### Additions
+
+#### [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+
+This one mod does... Alot, it allowed me to remove alot.
+
+#### [CorporateRestructureWeather](https://thunderstore.io/c/lethal-company/p/CatsArmy/CorporateRestructureWeather/)
+
+Since I removed Corporate_Restructure, this brings back the monitor change itself (which was nice).
+
+### Removals
+
+#### [LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/), [SkipToMultiplayerMenu](https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/), [Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/), [ScanFix](https://thunderstore.io/c/lethal-company/p/Nebulaetrix/ScanFix/), [FireExitFlip](https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/), [SnapRotateFurniture](https://thunderstore.io/c/lethal-company/p/SleeplessKyru/SnapRotateFurniture/), [NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/), and [FastSwitchPlayerViewInRadar](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar/)
+
+All superceded / replaced by GeneralImprovements
+
+#### [Dunce_Cap](https://thunderstore.io/c/lethal-company/p/PuffyMods/Dunce_Cap/)
+
+No one was using it.
+
+#### [EmployeeAssignments](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/)
+
+Finally tired of that popup.
+
 # 1.25.0
 
 ### Additions
