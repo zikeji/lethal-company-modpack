@@ -1,3 +1,17 @@
+# 1.26.2
+
+Some config tweaks.
+
+### Removals
+
+#### [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+
+Conflicts with improvements.
+
+#### [PerformanceEnhancer](https://thunderstore.io/c/lethal-company/p/Solar32/PerformanceEnhancer/)
+
+Adds annoying FPS counter.
+
 # 1.26.1
 
 ### Additions
