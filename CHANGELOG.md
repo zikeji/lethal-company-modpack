@@ -1,3 +1,89 @@
+# 1.25.0
+
+### Additions
+
+#### [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/), [Dantors_Mental_Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/), [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/), [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/), [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/), [PoolRooms](https://thunderstore.io/c/lethal-company/p/skidz/PoolRooms/), and [Scoopys_Variety_Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
+
+A bunch of new (and returning) interiors (with some other things).
+
+#### [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) and [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/)
+
+Dependencies of the above.
+
+#### [SkinwalkersExperimental](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/SkinwalkersExperimental/)
+
+In lieu of Skinwalkers.
+
+#### [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+
+Supposedly causes less issues.
+
+#### [CompanyCreatures](https://thunderstore.io/c/lethal-company/p/PloufJPEG/CompanyCreatures/), [DarkMist](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/), and [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
+
+New monsters. Fear them (they're actually all benign though).
+
+#### [Lethal_Trading_Cards](https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/) and [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/)
+
+Some new loot.
+
+#### [EnhancedLockpicker](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/)
+
+Makes the lockpicker faster and lets it lock doors.
+
+#### [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+
+Polaroids in Lethal Company, who knew?
+
+#### [DiscJockey](https://thunderstore.io/c/lethal-company/p/Yoshify/DiscJockey/)
+
+JABM (just another boombox mod).
+
+#### [SellBodies](https://thunderstore.io/c/lethal-company/p/malco/SellBodies/)
+
+Let's you collect the bodies of the monsters you kill.
+
+#### [SlimeTamingFix](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/)
+
+Slimes can now fornicate with boomboxes.
+
+#### [SnapRotateFurniture](https://thunderstore.io/c/lethal-company/p/SleeplessKyru/SnapRotateFurniture/)
+
+You know how you can never rotate furniture just right? This fixes that.
+
+#### [FireExitFlip](https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/)
+
+Why are you facing the door when you use the fire exit? This aims to resolve that.
+
+#### [SignalTranslatorAligner](https://thunderstore.io/c/lethal-company/p/LeKAKiD/SignalTranslatorAligner/)
+
+The left aligned signal translator gives me a brain aneurysm.
+
+#### [FairGiants](https://thunderstore.io/c/lethal-company/p/LegoMaster3650/FairGiants/)
+
+Makes giants a little less aggro.
+
+#### [LogNeuter](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LogNeuter/), [CleanerLogs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/), and [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/)
+
+Clean up the noise in the logs.
+
+#### [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/), [CullFactory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/), [NutcrackerFixes](https://thunderstore.io/c/lethal-company/p/Zaggy1024/NutcrackerFixes/), and [PerformanceEnhancer](https://thunderstore.io/c/lethal-company/p/Solar32/PerformanceEnhancer/)
+
+Some lag prevention and performance improvements.
+
+### Updates
+
+Updated [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.9.3.
+
+### Removals
+
+#### [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+
+Removed in favor of OpenHelmetCams.
+
+#### [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+
+Replaced with experimental.
+
 # 1.24.6
 
 ### Updates
