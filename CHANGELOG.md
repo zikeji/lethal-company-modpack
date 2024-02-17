@@ -1,3 +1,9 @@
+# 1.24.6
+
+### Updates
+
+Updated [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) updated to 2.4.1.
+
 # 1.24.5
 
 ### Additions
