@@ -1,3 +1,21 @@
+# 1.26.1
+
+### Additions
+
+#### [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+
+Performance improvements on defaults.
+
+#### [GoAwayModList](https://thunderstore.io/c/lethal-company/p/poogle/GoAwayModList/)
+
+This does.
+
+### Removals
+
+#### [HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
+
+This doesn't work anyway.
+
 # 1.26.0
 
 ### Additions
