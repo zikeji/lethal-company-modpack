@@ -1,3 +1,21 @@
+# 1.26.4
+
+### Additions
+
+#### [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/)
+
+Dependency of LETHALRESONANCE.
+
+### Updates
+
+Updated [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.1.2 and [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.1.2.
+
+### Removals
+
+#### [MoreScreams](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)
+
+More audio bugs.
+
 # 1.26.3
 
 ### Fixes
