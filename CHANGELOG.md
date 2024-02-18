@@ -1,3 +1,19 @@
+# 1.26.3
+
+### Fixes
+
+Removed the config for LogNeuter that was causing scanning to not work and increasing launch time by an eon.
+
+### Additions
+
+#### [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+
+It does not, in fact, conflict.
+
+### Updates
+
+Updated [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.1.0.
+
 # 1.26.2
 
 Some config tweaks.

@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack",
-  "version_number": "1.26.2",
+  "version_number": "1.26.3",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -54,7 +54,7 @@
     "LegoMaster3650-FairGiants-1.0.0",
     "LeKAKiD-SignalTranslatorAligner-1.1.0",
     "LethalResonance-LETHAL_RESONANCE_MELTDOWN-1.1.6",
-    "LethalResonance-LETHALRESONANCE-4.0.8",
+    "LethalResonance-LETHALRESONANCE-4.1.0",
     "linkoid-DissonanceLagFix-1.0.0",
     "loaforc-FacilityMeltdown-2.3.0",
     "Lordfirespeed-OdinSerializer-2022.11.9",
@@ -79,6 +79,7 @@
     "PloufJPEG-CompanyCreatures-0.2.0",
     "Pooble-LCBetterSaves-1.7.3",
     "poogle-GoAwayModList-1.0.1",
+    "PopleZoo-BetterItemScan-3.0.1",
     "PotatoePet-AdvancedCompany-1.1.1",
     "PuffyMods-Arrow_Hat-1.1.0",
     "PuffyMods-Kick_Me-1.1.0",
