@@ -1,3 +1,17 @@
+# 1.26.6
+
+### Additions
+
+#### [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+
+Reverted back.
+
+### Removals
+
+#### [SkinwalkersExperimental](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/SkinwalkersExperimental/)
+
+\*poof\*
+
 # 1.26.5
 
 Made the sewer dungeon more rare, fixed the improvement mod config X_X. Added details on reusing my repo.
