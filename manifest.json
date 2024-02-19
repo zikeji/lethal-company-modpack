@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack",
-  "version_number": "1.26.4",
+  "version_number": "1.26.5",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -8,7 +8,7 @@
     "404_Dom-Doms_Basic_Suit_Colors-1.4.4",
     "5Bit-FPSSpectate-1.0.1",
     "5Bit-VoiceHUD-1.0.4",
-    "Alice-ScarletDevilMansion-1.2.6",
+    "Alice-ScarletDevilMansion-1.2.7",
     "AllToasters-SpectateEnemies-2.3.1",
     "ATK-UnlimitedTZP-0.9.0",
     "Badham_Mods-SCPFoundationDungeon-2.3.1",
@@ -66,7 +66,7 @@
     "monkes_mods-JumpDelayPatch-1.0.1",
     "Monkeytype-HideChat-1.0.0",
     "MrHydralisk-EnhancedLockpicker-1.1.4",
-    "Nikki-NikkisCosmeticKingdom-1.5.1",
+    "Nikki-NikkisCosmeticKingdom-1.5.2",
     "no00ob-LCSoundTool-1.5.1",
     "Norman-GlowStickSuits-1.0.4",
     "NotAtomicBomb-TerminalApi-1.5.1",
@@ -113,7 +113,7 @@
     "xilophor-LethalNetworkAPI-2.1.6",
     "Yoshify-DiscJockey-1.2.1",
     "Zaggy1024-NutcrackerFixes-1.2.2",
-    "Zaggy1024-OpenBodyCams-1.2.1",
+    "Zaggy1024-OpenBodyCams-1.2.2",
     "Zaggy1024-PathfindingLagFix-1.2.1"
   ]
 }

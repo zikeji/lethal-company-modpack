@@ -1,3 +1,11 @@
+# 1.26.5
+
+Made the sewer dungeon more rare, fixed the improvement mod config X_X. Added details on reusing my repo.
+
+### Updates
+
+Updated [NikkisCosmeticKingdom](https://thunderstore.io/c/lethal-company/p/Nikki/NikkisCosmeticKingdom/) updated to 1.5.2, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.2, and [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/) updated to 1.2.7.
+
 # 1.26.4
 
 ### Additions
