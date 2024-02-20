@@ -1,3 +1,23 @@
+# 1.26.7
+
+Made Nutcrackers not sellable in config. Update sewer / dungeon to only spawn on free maps.
+
+### Additions
+
+#### [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/)
+
+Maintained.
+
+### Updates
+
+Updated [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) updated to 1.1.0, [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.6, [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.1.5, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.0, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.5, [PoolRooms](https://thunderstore.io/c/lethal-company/p/skidz/PoolRooms/) updated to 0.1.15, [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) updated to 1.5.2, and [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) updated to 0.1.1.
+
+### Removals
+
+#### [SellBodies](https://thunderstore.io/c/lethal-company/p/malco/SellBodies/)
+
+Not maintained.
+
 # 1.26.6
 
 ### Additions
