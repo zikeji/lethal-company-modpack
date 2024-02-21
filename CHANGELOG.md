@@ -1,3 +1,21 @@
+# 1.27.0
+
+### Additions
+
+#### [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+
+An actual casino at the company? Nice.
+
+### Updates
+
+Updated [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.11, [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.1.7, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.6, [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/) updated to 3.0.0, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.2.0, and [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) updated to 0.1.2.
+
+### Removals
+
+#### [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
+
+Replaced with LethalCasino.
+
 # 1.26.7
 
 Made Nutcrackers not sellable in config. Update sewer / dungeon to only spawn on free maps.
