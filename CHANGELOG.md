@@ -1,3 +1,21 @@
+# 1.28.0
+
+Some config changes.
+
+### Additions
+
+#### [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/)
+
+Yes?
+
+#### [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/)
+
+A portal into space.. A window..
+
+### Updates
+
+Updated [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.15, [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.1.8, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.8, and [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/) updated to 1.2.8.
+
 # 1.27.1
 
 ### Updates
