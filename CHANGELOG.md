@@ -1,3 +1,9 @@
+# 1.27.1
+
+### Updates
+
+Updated [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) updated to 1.0.8, [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.3.4, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.7, [PoolRooms](https://thunderstore.io/c/lethal-company/p/skidz/PoolRooms/) updated to 0.1.16, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.2.1, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.9.4, and [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) updated to 0.1.3.
+
 # 1.27.0
 
 ### Additions
