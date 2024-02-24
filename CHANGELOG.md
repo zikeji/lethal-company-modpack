@@ -1,3 +1,9 @@
+# 1.28.1
+
+### Updates
+
+Updated [Dantors_Mental_Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/) updated to 1.0.4, [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.16, [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.3.5, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.2.2, and [ToggleMute](https://thunderstore.io/c/lethal-company/p/quackandcheese/ToggleMute/) updated to 1.3.1.
+
 # 1.28.0
 
 Some config changes.
