@@ -1,3 +1,47 @@
+# 1.29.0
+
+### Additions
+
+#### [SavageCompany](https://thunderstore.io/c/lethal-company/p/DerplingDevelopments/SavageCompany/), [angry_british_bug](https://thunderstore.io/c/lethal-company/p/HoffmanTV/angry_british_bug/), & [BonkHitSFX](https://thunderstore.io/c/lethal-company/p/sunnobunno/BonkHitSFX/)
+
+We would basically just have people add these, this cuts out the middleman.
+
+### Updates
+
+Updated [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.20, [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.2.2, [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.3.9, and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 1.9.5.
+
+### Removals
+
+#### [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) & [GoAwayModList](https://thunderstore.io/c/lethal-company/p/poogle/GoAwayModList/)
+
+I knew some mods were removing LC_API dependency but when I went to check and found that LC_API was only depended on by GoAwayModList.. Well, it was long overdue lol.
+
+#### [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/), [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/), & [PoolRooms](https://thunderstore.io/c/lethal-company/p/skidz/PoolRooms/)
+
+Some interiors that just fell flat with the group or were otherwise annoying.
+
+#### [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/), [OuijaBoard](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/),  [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/),  & [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)
+
+Custom loot and mechanics that we weren't really using anymore. They've lost their novelty.
+
+#### [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)
+
+#### [Arrow_Hat](https://thunderstore.io/c/lethal-company/p/PuffyMods/Arrow_Hat/), [Kick_Me](https://thunderstore.io/c/lethal-company/p/PuffyMods/Kick_Me/), [Sims_Plumbob](https://thunderstore.io/c/lethal-company/p/PuffyMods/Sims_Plumbob/), & [CudisRealisticSuits](https://thunderstore.io/c/lethal-company/p/kidcudilovers/CudisRealisticSuits/)
+
+Nobody is using these cosmetics.
+
+#### [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+
+We aint even using em'.
+
+#### [CullFactory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
+
+Too many errors in the logs from this mod.
+
+#### [DarkMist](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/) & [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
+
+They don't really add anything, y'know?
+
 # 1.28.1
 
 ### Updates
