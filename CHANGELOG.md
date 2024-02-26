@@ -1,3 +1,7 @@
+# 1.29.2
+
+Update configs.
+
 # 1.29.1
 
 ### Updates

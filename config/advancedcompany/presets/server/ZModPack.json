@@ -15,8 +15,12 @@
     "enable_extend_deadline": true,
     "save_suits_after_death": true,
     "save_progress": false,
+    "individual_xp": false,
+    "deactivate_hotbar": false,
+    "reset_xp": false,
     "xpmultiplier": 1.25,
     "starting_xp": 3000,
+    "starting_ship_xp": 3000,
     "day_length": 900
   },
   "moons": {
@@ -910,6 +914,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 1
               }
             }
           ],
@@ -2283,6 +2294,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 2
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -3654,6 +3672,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 2
               }
             }
           ],
@@ -5027,6 +5052,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -6398,6 +6430,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 2
               }
             }
           ],
@@ -7771,6 +7810,13 @@
                 "override": false,
                 "rarity": 3
               }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -9139,6 +9185,13 @@
             },
             {
               "key": "Wrench",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -10515,6 +10568,13 @@
                 "override": false,
                 "rarity": 5
               }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -11886,6 +11946,13 @@
               "value": {
                 "override": false,
                 "rarity": 2
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 1
               }
             }
           ],
@@ -14257,6 +14324,18 @@
           "max_value": 125,
           "override_weight": false,
           "weight": 1.22
+        }
+      },
+      {
+        "key": "Controller",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 624,
+          "override_max_value": false,
+          "max_value": 874,
+          "override_weight": false,
+          "weight": 1.0
         }
       }
     ],

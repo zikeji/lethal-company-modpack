@@ -1,0 +1,1 @@
+{"overrides":[{"action":"UIUpKey","origPath":"<Keyboard>/upArrow","path":"<Keyboard>/numpad8"},{"action":"UIDownKey","origPath":"<Keyboard>/downArrow","path":"<Keyboard>/numpad2"},{"action":"UILeftKey","origPath":"<Keyboard>/leftArrow","path":"<Keyboard>/numpad4"},{"action":"UIRightKey","origPath":"<Keyboard>/rightArrow","path":"<Keyboard>/numpad6"}]}
