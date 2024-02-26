@@ -1,3 +1,9 @@
+# 1.29.1
+
+### Updates
+
+Updated [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.1.2, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.1, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.9, and [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.3.0.
+
 # 1.29.0
 
 ### Additions
