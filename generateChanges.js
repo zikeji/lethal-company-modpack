@@ -42,6 +42,8 @@ const objectify = (data) => {
     return obj;
 }
 
+const sortSplit = (a, b) => a.split('-')[1] > b.split('-')[1] ? 1 : (a.split('-')[1] < b.split('-')[1] ? -1 : 0);
+
 exec("git show HEAD:manifest.json", (_, stdout) => {
     let oldManifest = {};
     try {
@@ -88,9 +90,9 @@ exec("git show HEAD:manifest.json", (_, stdout) => {
     for (const key of Object.keys(newManifest)) {
         changelog.added.push(key);
     }
-    changelog.added.sort();
-    changelog.updated.sort();
-    changelog.removed.sort();
+    changelog.added.sort(sortSplit);
+    changelog.updated.sort(sortSplit);
+    changelog.removed.sort(sortSplit);
     const text = [`# ${newVersion}`, ''];
     if (changelog.added.length > 0) {
         text.push('### Additions');

@@ -1,3 +1,41 @@
+# 1.30.0
+
+### Additions
+
+#### Built-In Cosmetics
+
+Added back the flushed face, added a cat on your shoulder, and added a personal cosmetic.
+
+#### [90s_Kid_Boombox](https://thunderstore.io/c/lethal-company/p/Sears/90s_Kid_Boombox/)
+
+Bops to start with.
+
+#### [BensCosmetics](https://thunderstore.io/c/lethal-company/p/PlainBen/BensCosmetics/), [EquipmentCompany](https://thunderstore.io/c/lethal-company/p/companyemployee/EquipmentCompany/), [Furry_Tails](https://thunderstore.io/c/lethal-company/p/Protogens/Furry_Tails/), [Glorious_Mustaches](https://thunderstore.io/c/lethal-company/p/DerangedLazyArtist/Glorious_Mustaches/), & [JigglePhysicsPlugin](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin/)
+
+More cosmetics.
+
+#### [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/), [Custom_Boombox_Fix](https://thunderstore.io/c/lethal-company/p/CodeEnder/Custom_Boombox_Fix/), & [Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)
+
+Basic custom boombox stuff for custom boombox packs.
+
+### Updates
+
+Updated [Dantors_Mental_Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/) updated to 1.1.0, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.4.0, [ImmersiveScraps](https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/) updated to 1.2.0, [CSync](https://thunderstore.io/c/lethal-company/p/Owen3H/CSync/) updated to 2.0.0, [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.22, [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) updated to 3.0.2, [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.1.10, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.1.10, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.2, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.2.11, [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) updated to 2.4.1, [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.0, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 1.3.1.
+
+### Removals
+
+#### [DiscJockey](https://thunderstore.io/c/lethal-company/p/Yoshify/DiscJockey/)
+
+Causes random crashes. No no.
+
+#### [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
+
+[AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) says it causes issues, so, bye bye.
+
+#### [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
+
+Superceded by [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/).
+
 # 1.29.2
 
 Update configs.
