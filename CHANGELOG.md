@@ -1,3 +1,23 @@
+# 1.31.0
+
+### Additions
+
+#### [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/)
+
+relaxing
+
+#### [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
+
+terrifying
+
+#### [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
+
+ghost girl scary-er
+
+### Updates
+
+Updated [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.23.
+
 # 1.30.0
 
 ### Additions
