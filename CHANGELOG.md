@@ -1,3 +1,9 @@
+# 1.31.1
+
+### Updates
+
+Updated [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.1.11 and [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.1.11.
+
 # 1.31.0
 
 ### Additions
