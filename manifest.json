@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack",
-  "version_number": "1.32.0",
+  "version_number": "1.33.0",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -64,7 +64,7 @@
     "ModusInteractive-Lethal_Trading_Cards-1.0.3",
     "monkes_mods-JumpDelayPatch-1.0.1",
     "Monkeytype-HideChat-1.0.0",
-    "mrgrm7-LethalCasino-0.3.5",
+    "mrgrm7-LethalCasino-0.4.0",
     "MrHydralisk-EnhancedLockpicker-1.1.4",
     "Nikki-NikkisCosmeticKingdom-1.5.2",
     "no00ob-LCSoundTool-1.5.1",
@@ -74,7 +74,7 @@
     "Nuts-LethalPlushies-1.7.1",
     "Owen3H-CSync-2.1.0",
     "Ozone-Runtime_Netcode_Patcher-0.2.5",
-    "Piggy-LC_Office-1.0.24",
+    "Piggy-LC_Office-1.0.25",
     "PlainBen-BensCosmetics-1.2.0",
     "PloufJPEG-CompanyCreatures-0.2.0",
     "Pooble-LCBetterSaves-1.7.3",

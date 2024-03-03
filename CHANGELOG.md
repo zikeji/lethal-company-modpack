@@ -1,3 +1,11 @@
+# 1.33.0
+
+Add more cosmetics.
+
+### Updates
+
+Updated [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.25 and [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.25.
+
 # 1.32.0
 
 Added our own music.

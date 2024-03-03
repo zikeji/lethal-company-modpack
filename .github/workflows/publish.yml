@@ -17,7 +17,7 @@ jobs:
         run: cd "plugins" && cd "Custom Songs" && 7z x "*.7z" -p"$ARCHIVE_PASSWORD" > /dev/null 2>&1 && rm -f *.7z && cd ../../
       - uses: vimtor/action-zip@v1.1
         with:
-          files: manifest.json icon.png README.md CHANGELOG.md config/ plugins/ flushedhead.cosmetics electricyellowcichlid.cosmetics kitty.cosmetics
+          files: manifest.json icon.png README.md CHANGELOG.md config/ plugins/ flushedhead.cosmetics electricyellowcichlid.cosmetics kitty.cosmetics shotgun.cosmetics rockspires.cosmetics horn1.cosmetics shiba.cosmetics
           recursive: false
           dest: package.zip
       - id: set_var

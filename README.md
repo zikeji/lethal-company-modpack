@@ -2,12 +2,6 @@
 
 I got tired of sending my friends a list of mods and all that fun stuff, so here we go.
 
-## Attribution
-
-- flushedhead.cosmetics - [inacraft cosmetics megapack](https://thunderstore.io/c/lethal-company/p/broiiler/inacraft_cosmetics_megapack/)  
-- electricyellowcichlid.cosmetics - [Free3D](https://free3d.com/3d-model/electric-yellow-cichlid-v1--199868.html)
-- kitty.cosmetics - [SketchFab](https://sketchfab.com/3d-models/kitty-70483b20fb9646dab796135f06ac531d)
-
 ## Forking
 
 If you'd like to fork this modpack and make your own, feel free to! I have a few utility scripts that help with releases but the GitHub action does alot of the heavy lifting. I would recommend just creating a new repo and copying my files over so you don't get my commit history.
