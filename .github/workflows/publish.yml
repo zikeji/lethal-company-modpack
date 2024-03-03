@@ -27,6 +27,12 @@ jobs:
           content="${content//$'\n'/'%0A'}"
           content="${content//$'\r'/'%0D'}"
           echo "::set-output name=manifestJson::$content"
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v4
+        with:
+          name: package.zip
+          path: package.zip
+          retention-days: 5
       - uses: GreenTF/upload-thunderstore-package@v4
         with:
           namespace: Zikeji
