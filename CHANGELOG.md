@@ -1,3 +1,23 @@
+# 1.32.0
+
+Added our own music.
+
+### Additions
+
+#### [QuickQuitToMenu](https://thunderstore.io/c/lethal-company/p/taffyko/QuickQuitToMenu/)
+
+For bugs.
+
+### Updates
+
+Updated [CSync](https://thunderstore.io/c/lethal-company/p/Owen3H/CSync/) updated to 2.1.0, [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.24, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 4.0.2, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 1.3.0, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 1.3.4.
+
+### Removals
+
+#### [90s_Kid_Boombox](https://thunderstore.io/c/lethal-company/p/Sears/90s_Kid_Boombox/)
+
+Added our own musics.
+
 # 1.31.1
 
 ### Updates
