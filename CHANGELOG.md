@@ -1,3 +1,15 @@
+# 1.34.1
+
+### Additions
+
+#### [LethalCosmeticsZ](https://thunderstore.io/c/lethal-company/p/Zikeji/LethalCosmeticsZ/) & [MusicPackZ](https://thunderstore.io/c/lethal-company/p/Zikeji/MusicPackZ/)
+
+These are mine I made them.
+
+### Updates
+
+Updated [NikkisCosmeticKingdom](https://thunderstore.io/c/lethal-company/p/Nikki/NikkisCosmeticKingdom/) updated to 2.0.0 and [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.2.
+
 # 1.34.0
 
 Separated out all music, separated out all cosmetics except the imported one.
