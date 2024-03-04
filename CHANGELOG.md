@@ -1,6 +1,6 @@
 # 1.34.0
 
-Removed all cosmetics except the imported one.
+Separated out all music, separated out all cosmetics except the imported one.
 
 ### Additions
 

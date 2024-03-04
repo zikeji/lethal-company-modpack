@@ -10,14 +10,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Unpack custom music
-        shell: bash
-        env:
-          ARCHIVE_PASSWORD: ${{ secrets.ARCHIVE_PASSWORD }}
-        run: cd "plugins" && cd "Custom Songs" && 7z x "*.7z" -p"$ARCHIVE_PASSWORD" > /dev/null 2>&1 && rm -f *.7z && cd ../../
       - uses: vimtor/action-zip@v1.1
         with:
-          files: manifest.json icon.png README.md CHANGELOG.md config/ plugins/ flushedhead.cosmetics
+          files: manifest.json icon.png README.md CHANGELOG.md config/ flushedhead.cosmetics
           recursive: false
           dest: package.zip
       - id: set_var

@@ -6,6 +6,10 @@ I got tired of sending my friends a list of mods and all that fun stuff, so here
 
 If you'd like to fork this modpack and make your own, feel free to! I have a few utility scripts that help with releases but the GitHub action does alot of the heavy lifting. I would recommend just creating a new repo and copying my files over so you don't get my commit history.
 
+## Attribution
+
+I pulled flushedhead.cosmetics from the [inacraft cosmetics megapack](https://thunderstore.io/c/lethal-company/p/broiiler/inacraft_cosmetics_megapack/) at my sister's request.
+
 ### Instructions
 
 1. If you don't have one already, go to Thunderstore and [create a team](https://thunderstore.io/settings/teams/create/).
