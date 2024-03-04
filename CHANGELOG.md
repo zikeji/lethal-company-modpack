@@ -1,3 +1,21 @@
+# 1.34.0
+
+Removed all cosmetics except the imported one.
+
+### Additions
+
+#### [Emergency_Dice](https://thunderstore.io/c/lethal-company/p/Theronguard/Emergency_Dice/)
+
+We like RNG.
+
+#### [Possessed_Masks](https://thunderstore.io/c/lethal-company/p/OE_Tweaks/Possessed_Masks/)
+
+See above.
+
+### Updates
+
+Updated [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.7 and [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.7.
+
 # 1.33.0
 
 Add more cosmetics.
