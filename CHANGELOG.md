@@ -1,3 +1,9 @@
+# 1.34.2
+
+### Updates
+
+Updated [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.8, [Dantors_Mental_Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/) updated to 1.1.1, [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) updated to 1.6.2, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.0.2, [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) updated to 4.2.3, [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.1.12, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.3, [LethalCosmeticsZ](https://thunderstore.io/c/lethal-company/p/Zikeji/LethalCosmeticsZ/) updated to 1.3.0, [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) updated to 2.4.5, [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.4.2, [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.4, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 1.3.6.
+
 # 1.34.1
 
 ### Additions
@@ -24,17 +30,9 @@ We like RNG.
 
 See above.
 
-### Updates
-
-Updated [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.7 and [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.7.
-
 # 1.33.0
 
 Add more cosmetics.
-
-### Updates
-
-Updated [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.25 and [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.0.25.
 
 # 1.32.0
 
