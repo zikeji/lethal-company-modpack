@@ -1,3 +1,17 @@
+# 1.35.1
+
+### Additions
+
+#### [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/)
+
+New maintainer.
+
+### Removals
+
+#### [CSync](https://thunderstore.io/c/lethal-company/p/Owen3H/CSync/)
+
+See above.
+
 # 1.35.0
 
 ### Additions
