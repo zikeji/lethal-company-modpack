@@ -1,3 +1,23 @@
+# 1.35.0
+
+### Additions
+
+#### [Atlas_Abyss](https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/), [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/), & [StarlancerMoons](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/)
+
+Some moons. We're trying. Wish us luck.
+
+#### [LC_Masked_Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/)
+
+Fixes that annoying half red thing.
+
+#### [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
+
+Shy guy :D
+
+#### [ViewExtension](https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/) & [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
+
+Dependencies ofsome moons.
+
 # 1.34.2
 
 ### Updates
