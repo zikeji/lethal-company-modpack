@@ -1,6 +1,8 @@
-# Zikeji's Convenience Modpack
+# Zikeji's Convenience Modpack Lite
 
-I got tired of sending my friends a list of mods and all that fun stuff, so here we go.
+[View Main Version](https://thunderstore.io/c/lethal-company/p/Zikeji/Zikeji_s_Convenience_Modpack/)
+
+Without the cusotm moons and interiors, that's what lite means, right?
 
 ## Forking
 
