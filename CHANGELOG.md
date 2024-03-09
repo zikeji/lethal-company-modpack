@@ -1,3 +1,11 @@
+# 1.35.2
+
+Update TerminalStuff config. Add config for TooManyEmotes. Update gambler to make dice more common.
+
+### Updates
+
+Updated [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.0.3, [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) updated to 4.0.3, [MoreMaterials](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/) updated to 1.3.2, [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.0, [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) updated to 2.4.7, and [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.5.
+
 # 1.35.1
 
 ### Additions
