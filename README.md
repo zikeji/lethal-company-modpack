@@ -1,5 +1,7 @@
 # Zikeji's Convenience Modpack
 
+[View Lite Version](https://thunderstore.io/c/lethal-company/p/Zikeji/Zikeji_s_Convenience_Modpack_Lite/)
+
 I got tired of sending my friends a list of mods and all that fun stuff, so here we go.
 
 ## Forking
