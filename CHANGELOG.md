@@ -1,3 +1,63 @@
+# 1.36.0
+
+Changed around penalties, made ghost codes slightly less agressive / no more signal translator, added a nicer chat.
+
+### Additions
+
+#### [Aggressive_Hoarding_Bugs](https://thunderstore.io/c/lethal-company/p/Panton/Aggressive_Hoarding_Bugs/)
+
+Change voice variety for our hoarding bugs.
+
+#### [CustomDeathPenalty](https://thunderstore.io/c/lethal-company/p/SillySquad/CustomDeathPenalty/)
+
+Changing around death penalties.
+
+#### [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
+
+Slendy!
+
+#### [JetpackFallFix](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackFallFix/)
+
+Hopefully this also fixes jet boots (x doubt).
+
+#### [LethalRichPresence](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresence/)
+
+Discord funsies.
+
+#### [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/)
+
+Replacing hide chat with a mod that does that, and more.
+
+#### [TeleportDecline](https://thunderstore.io/c/lethal-company/p/MasterAli2/TeleportDecline/)
+
+Teleport with impunity!
+
+#### [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
+
+Tweak weather randomness to make it make sense.
+
+#### [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/)
+
+New loot.. Some of it useful. Right?
+
+### Removals
+
+#### [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
+
+Replaced with [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/).
+
+#### [SavageCompany](https://thunderstore.io/c/lethal-company/p/DerplingDevelopments/SavageCompany/)
+
+Removing this to see if it is the cause of issues.
+
+#### [ScaledPenalties](https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/)
+
+Replaced with [CustomDeathPenalty](https://thunderstore.io/c/lethal-company/p/SillySquad/CustomDeathPenalty/).
+
+#### [angry_british_bug](https://thunderstore.io/c/lethal-company/p/HoffmanTV/angry_british_bug/)
+
+Replaced with [Aggressive_Hoarding_Bugs](https://thunderstore.io/c/lethal-company/p/Panton/Aggressive_Hoarding_Bugs/).
+
 # 1.35.2
 
 Update TerminalStuff config. Add config for TooManyEmotes. Update gambler to make dice more common.
