@@ -1,3 +1,21 @@
+# 1.36.1
+
+### Additions
+
+#### [AAAAAGHH](https://thunderstore.io/c/lethal-company/p/SkrimpGang/AAAAAGHH/) & [Meme_HoardingBug](https://thunderstore.io/c/lethal-company/p/Nephren/Meme_HoardingBug/)
+
+In with the new.
+
+### Updates
+
+Updated [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.4.1, [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/) updated to 1.1.14, [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.12.55, [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) updated to 1.0.4, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.4, and [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.1.
+
+### Removals
+
+#### [Aggressive_Hoarding_Bugs](https://thunderstore.io/c/lethal-company/p/Panton/Aggressive_Hoarding_Bugs/)
+
+Got old fast.
+
 # 1.36.0
 
 Changed around penalties, made ghost codes slightly less agressive / no more signal translator, added a nicer chat.
