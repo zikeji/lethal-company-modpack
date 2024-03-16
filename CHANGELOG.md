@@ -1,3 +1,7 @@
+# 2.0.1
+
+I forgot a config lol
+
 # 2.0.0
 
 v2 chaos edition
