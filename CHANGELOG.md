@@ -1,3 +1,37 @@
+# 2.0.0
+
+v2 chaos edition
+
+### Additions
+
+[AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/), [BBing_Emotes](https://thunderstore.io/c/lethal-company/p/BBing/BBing_Emotes/), [BadAssCompany](https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/), [CollectYourDead](https://thunderstore.io/c/lethal-company/p/freesnow/CollectYourDead/), [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/), [DacneEmotesBundle](https://thunderstore.io/c/lethal-company/p/MK_MODS/DacneEmotesBundle/), [EnemyInteractions](https://thunderstore.io/c/lethal-company/p/Gemumoddo/EnemyInteractions/), [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/), [ExtraDaysToDeadline](https://thunderstore.io/c/lethal-company/p/Anubis/ExtraDaysToDeadline/), [FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/), [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/), [GlizzyEmotes](https://thunderstore.io/c/lethal-company/p/kidkool/GlizzyEmotes/), [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/), [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/), [JKR_Emotes](https://thunderstore.io/c/lethal-company/p/JKR/JKR_Emotes/), [LCAmmoCheck](https://thunderstore.io/c/lethal-company/p/axd1x8a/LCAmmoCheck/), [LandminesForAll](https://thunderstore.io/c/lethal-company/p/Sakura/LandminesForAll/), [LethalAPI_Terminal](https://thunderstore.io/c/lethal-company/p/LethalAPI/LethalAPI_Terminal/), [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/), [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/), [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/), [LethalUtilities](https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities/), [NekiyManEmotes](https://thunderstore.io/c/lethal-company/p/mertvybasein/NekiyManEmotes/), [Racist_Yippie_Hoarding_Bugs](https://thunderstore.io/c/lethal-company/p/Panton/Racist_Yippie_Hoarding_Bugs/), [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/), [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/), [ReservedSprayPaintSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/), [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/), [ReservedWeaponSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot/), [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/), [Tf2Emotes](https://thunderstore.io/c/lethal-company/p/Gemumoddo/Tf2Emotes/), [broiilers_silly_emotes](https://thunderstore.io/c/lethal-company/p/broiiler/broiilers_silly_emotes/), and [mysticemotes](https://thunderstore.io/c/lethal-company/p/CCCM/mysticemotes/)
+
+### Updates
+
+Updated [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.9, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.14.3, [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.7.1, [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) updated to 1.0.6, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.5, [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.3, [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.2, and [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/) updated to 1.1.0.
+
+### Removals
+
+#### [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/)
+
+Drama.
+
+#### [FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)
+
+Boring.
+
+#### [Meme_HoardingBug](https://thunderstore.io/c/lethal-company/p/Nephren/Meme_HoardingBug/)
+
+Meh.
+
+#### [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+
+See below.
+
+#### [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+
+Usurped.
+
 # 1.36.1
 
 ### Additions
