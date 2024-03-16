@@ -1,3 +1,23 @@
+# 2.1.0
+
+Tweak configs.
+
+### Additions
+
+#### [IsThisTheWayICame](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/)
+
+At request.
+
+### Updates
+
+Updated [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.5.9, [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) updated to 2.0.2, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.8, [ReservedSprayPaintSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/) updated to 1.1.1, [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 2.0.2, and [ReservedWeaponSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot/) updated to 1.1.2.
+
+### Removals
+
+#### [ExtraDaysToDeadline](https://thunderstore.io/c/lethal-company/p/Anubis/ExtraDaysToDeadline/)
+
+Functionality exists in LGU.
+
 # 2.0.1
 
 I forgot a config lol
