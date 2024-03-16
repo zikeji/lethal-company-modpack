@@ -1,3 +1,23 @@
+# 2.1.0
+
+Tweak configs.
+
+### Additions
+
+#### [IsThisTheWayICame](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/)
+
+At request.
+
+### Updates
+
+Updated [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.2.9, [Dantors_Mental_Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/) updated to 1.2.0, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.14.3, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.5.9, [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) updated to 2.0.2, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.8, [ReservedSprayPaintSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/) updated to 1.1.1, [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 2.0.2, [ReservedWeaponSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot/) updated to 1.1.2, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.0.5, [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) updated to 1.1.17, [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.7.1, [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) updated to 1.0.6, [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/) updated to 1.5.5, [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.3, [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.2, and [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/) updated to 1.1.0.
+
+### Removals
+
+#### [ExtraDaysToDeadline](https://thunderstore.io/c/lethal-company/p/Anubis/ExtraDaysToDeadline/)
+
+Functionality exists in LGU.
+
 # 2.0.1
 
 I forgot a config lol
