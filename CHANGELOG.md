@@ -1,3 +1,11 @@
+# 2.2.0
+
+### Additions
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+Oops.
+
 # 2.1.1
 
 ### Additions
