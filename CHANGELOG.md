@@ -1,3 +1,15 @@
+# 2.2.0
+
+### Additions
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+Oops.
+
+### Updates
+
+Updated [Dantors_Mental_Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/) updated to 1.2.1.
+
 # 2.1.1
 
 ### Additions
