@@ -1,3 +1,15 @@
+# 2.1.1
+
+### Additions
+
+#### [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/), [FrostySuits2](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/), & [FrostySuits3](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits3/)
+
+More suits!
+
+### Updates
+
+Updated [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.9.
+
 # 2.1.0
 
 Tweak configs.
