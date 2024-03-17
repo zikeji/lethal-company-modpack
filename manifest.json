@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack",
-  "version_number": "2.1.0",
+  "version_number": "2.1.1",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -50,7 +50,7 @@
     "FlipMods-HotbarPlus-1.5.9",
     "FlipMods-ObjectVolumeController-1.0.4",
     "FlipMods-ReservedFlashlightSlot-2.0.2",
-    "FlipMods-ReservedItemSlotCore-2.0.8",
+    "FlipMods-ReservedItemSlotCore-2.0.9",
     "FlipMods-ReservedSprayPaintSlot-1.1.1",
     "FlipMods-ReservedWalkieSlot-2.0.2",
     "FlipMods-ReservedWeaponSlot-1.1.2",
@@ -62,6 +62,9 @@
     "Gemumoddo-LethalEmotesAPI-1.6.1",
     "Gemumoddo-Tf2Emotes-1.0.5",
     "Hamunii-JetpackFallFix-2.0.1",
+    "happyfrosty-FrostySuits-1.1.13",
+    "happyfrosty-FrostySuits2-1.0.9",
+    "happyfrosty-FrostySuits3-1.1.1",
     "Hardy-LCMaxSoundsFix-1.1.0",
     "Hexnet111-SuitSaver-1.1.4",
     "HGG-JigglePhysicsPlugin-1.1.2",
