@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack_Lite",
-  "version_number": "2.3.0",
+  "version_number": "2.3.1",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -43,7 +43,7 @@
     "Entity378-SellBodiesFixed-1.5.0",
     "Evaisa-HookGenPatcher-0.0.5",
     "Evaisa-LethalLib-0.14.4",
-    "Evaisa-LethalThings-0.10.1",
+    "Evaisa-LethalThings-0.10.2",
     "FEB-SCP_Suits-1.1.0",
     "fizzysaur-Happy_Hats-2.0.0",
     "FlipMods-HotbarPlus-1.5.11",
