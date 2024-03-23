@@ -1,3 +1,61 @@
+# 2.3.0
+
+### Additions
+
+#### [CozyImprovements](https://thunderstore.io/c/lethal-company/p/Spyci/CozyImprovements/)
+
+Quality of life.
+
+#### [DeadAndBored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/)
+
+Zzz.
+
+#### [DimmingFlashlights](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)
+
+Now that we use real flashlights, we can have real batteries.
+
+#### [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) & [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
+
+Some presumably huge bugfixes.
+
+#### [BetterMonitor](https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor/)
+
+Should make being the ship mom a tad easier.
+
+#### [ModelReplacementAPI](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/) & [ScavengerMaid](https://thunderstore.io/c/lethal-company/p/OfEden/ScavengerMaid/)
+
+uwu (blushes)
+
+#### [SirenHead](https://thunderstore.io/c/lethal-company/p/Ccode_lang/SirenHead/)
+
+WEE WOO
+
+#### [MelsEnemyPack](https://thunderstore.io/c/lethal-company/p/Melavex/MelsEnemyPack/)
+
+I'm told this is good, despite there not really being any examples of it.
+
+#### [ULTRAPLUSHIES](https://thunderstore.io/c/lethal-company/p/Scintesto/ULTRAPLUSHIES/)
+
+New plushies?!
+
+#### [Creative_Critters_Emotes](https://thunderstore.io/c/lethal-company/p/CreativeCritters/Creative_Critters_Emotes/)
+
+Just a few more emotes.
+
+#### [Pups_Cute_Cosmetics](https://thunderstore.io/c/lethal-company/p/PupVR/Pups_Cute_Cosmetics/)
+
+This cosmetic pack is actually pretty good.
+
+### Updates
+
+Updated [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.5.0, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.14.4, [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) updated to 0.10.1, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.5.11, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.12, [BadAssCompany](https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/) updated to 1.1.8, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.6.3, [TeleportDecline](https://thunderstore.io/c/lethal-company/p/MasterAli2/TeleportDecline/) updated to 0.1.0, [Furry_Tails](https://thunderstore.io/c/lethal-company/p/Protogens/Furry_Tails/) updated to 1.1.0, [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.13.61, [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) updated to 1.0.8, [LethalCosmeticsZ](https://thunderstore.io/c/lethal-company/p/Zikeji/LethalCosmeticsZ/) updated to 1.4.0, [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) updated to 1.0.1, and [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 3.4.3.
+
+### Removals
+
+#### [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) & [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)
+
+Replaced by [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) and [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/).
+
 # 2.2.0
 
 ### Additions
