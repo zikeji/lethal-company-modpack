@@ -69,6 +69,7 @@ const main =  async () => {
         if (package.versions.some((p) => p.version_number === version_number)) {
             process.stdout.write("\n");
             console.log(`${name} version ${version_number} is available.`);
+            process.exit(-1);
         }
         process.stdout.write(".");
         await new Promise((resolve) => setTimeout(resolve, 30000));

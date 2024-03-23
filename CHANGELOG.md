@@ -1,3 +1,9 @@
+# 2.3.1
+
+### Updates
+
+Updated [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) updated to 0.10.2.
+
 # 2.3.0
 
 ### Additions
