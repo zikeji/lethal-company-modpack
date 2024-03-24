@@ -1,3 +1,9 @@
+# 2.3.2
+
+### Updates
+
+Updated [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) updated to 1.4.0, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.13, [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) updated to 1.2.2, [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) updated to 1.0.5, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.3.
+
 # 2.3.1
 
 ### Updates
