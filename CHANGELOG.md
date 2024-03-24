@@ -1,3 +1,13 @@
+# 2.3.3
+
+Config changes.
+
+### Removals
+
+#### [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+
+Forgot to remove this.
+
 # 2.3.2
 
 ### Updates
