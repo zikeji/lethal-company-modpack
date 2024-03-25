@@ -1,3 +1,11 @@
+# 2.3.4
+
+Config changes.
+
+### Updates
+
+Updated [SirenHead](https://thunderstore.io/c/lethal-company/p/Ccode_lang/SirenHead/) updated to 1.3.1, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.6.0, [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) updated to 1.2.3, [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.13.67, [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) updated to 1.0.9, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.4.
+
 # 2.3.3
 
 Config changes.
