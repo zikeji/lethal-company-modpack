@@ -1,3 +1,53 @@
+# 2.4.0
+
+### Additions
+
+#### [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
+
+FPS go brrr?
+
+#### [Gnomes](https://thunderstore.io/c/lethal-company/p/Sconeys/Gnomes/)
+
+I'm not a g'noblin, I'm not a g'nelf, I'm a gnoooooooome!
+
+#### [LethalPhones](https://thunderstore.io/c/lethal-company/p/Scoops/LethalPhones/)
+
+Ring ring ring ring ring, banana phone!
+
+#### [RandomSlimeColor](https://thunderstore.io/c/lethal-company/p/TestAccount666/RandomSlimeColor/)
+
+Diversity.
+
+#### [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+
+Traditional.
+
+### Updates
+
+Updated [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.15.0, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.7.3, [Tf2Emotes](https://thunderstore.io/c/lethal-company/p/Gemumoddo/Tf2Emotes/) updated to 1.0.6, [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) updated to 1.2.6, [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.15.71, [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) updated to 1.0.13, and [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) updated to 1.4.3.
+
+### Removals
+
+#### [AAAAAGHH](https://thunderstore.io/c/lethal-company/p/SkrimpGang/AAAAAGHH/) & [Racist_Yippie_Hoarding_Bugs](https://thunderstore.io/c/lethal-company/p/Panton/Racist_Yippie_Hoarding_Bugs/)
+
+The name of the first mod certainly captures my reaction to it.
+
+#### [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) & [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+
+We got phones now!
+
+#### [FacelessStalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
+
+The pages were too tempting.
+
+#### [FrostySuits2](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/) & [Space_Pajamas_Suit](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/)
+
+#bringbackwaldo
+
+#### [MelsEnemyPack](https://thunderstore.io/c/lethal-company/p/Melavex/MelsEnemyPack/)
+
+Too buggy.
+
 # 2.3.5
 
 Config changes.
