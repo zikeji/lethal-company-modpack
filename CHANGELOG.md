@@ -1,3 +1,9 @@
+# 2.4.2
+
+### Updates
+
+Updated [BadAssCompany](https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/) updated to 1.1.9, [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) updated to 1.2.7, and [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) updated to 1.6.1.
+
 # 2.4.1
 
 ### Additions
