@@ -1,3 +1,21 @@
+# 2.4.1
+
+### Additions
+
+#### [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+
+Get more emotes back! (B)
+
+### Updates
+
+Updated [EnemyInteractions](https://thunderstore.io/c/lethal-company/p/Gemumoddo/EnemyInteractions/) updated to 1.1.2, [RandomSlimeColor](https://thunderstore.io/c/lethal-company/p/TestAccount666/RandomSlimeColor/) updated to 1.0.1, and [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/) updated to 1.1.14.
+
+### Removals
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+Using experimental DLL directly in the modpack.
+
 # 2.4.0
 
 ### Additions
