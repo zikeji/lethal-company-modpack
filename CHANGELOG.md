@@ -1,3 +1,11 @@
+# 2.4.3
+
+### Additions
+
+#### [FrostySuits2](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/)
+
+Adding this back after increasing suit limit to 200.
+
 # 2.4.2
 
 ### Updates

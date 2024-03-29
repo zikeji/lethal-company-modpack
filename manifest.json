@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack_Lite",
-  "version_number": "2.4.2",
+  "version_number": "2.4.3",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -60,6 +60,7 @@
     "Gemumoddo-Tf2Emotes-1.0.6",
     "Hamunii-JetpackFallFix-2.0.1",
     "happyfrosty-FrostySuits-1.1.14",
+    "happyfrosty-FrostySuits2-1.0.9",
     "happyfrosty-FrostySuits3-1.1.1",
     "Hardy-LCMaxSoundsFix-1.1.0",
     "Hexnet111-SuitSaver-1.1.4",
