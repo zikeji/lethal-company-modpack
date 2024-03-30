@@ -1,3 +1,41 @@
+# 2.5.0
+
+### Additions
+
+#### [BepInEx_Faster_Load_AssetBundles_Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
+
+Should make new launches after your first up to 60% faster.
+
+#### [DoorBreach](https://thunderstore.io/c/lethal-company/p/Nyxchrono/DoorBreach/)
+
+Disabled locksmith minigame in favor of this.
+
+#### [LittleCompany](https://thunderstore.io/c/lethal-company/p/Toybox/LittleCompany/)
+
+Honey I shrunk the employee.
+
+#### [MaskedAIRevamp](https://thunderstore.io/c/lethal-company/p/Piggy/MaskedAIRevamp/)
+
+(o . o)
+
+#### [TheGiantSpecimens](https://thunderstore.io/c/lethal-company/p/XuXiaolan/TheGiantSpecimens/)
+
+New mob.
+
+#### [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/)
+
+Make weather worth it.
+
+### Updates
+
+Updated [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) updated to 0.7.3, [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) updated to 1.2.8, and [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.15.72.
+
+### Removals
+
+#### [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/), [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/), [CleanerLogs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/), [CompanyCreatures](https://thunderstore.io/c/lethal-company/p/PloufJPEG/CompanyCreatures/), [CustomDeathPenalty](https://thunderstore.io/c/lethal-company/p/SillySquad/CustomDeathPenalty/), [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/), [Custom_Boombox_Fix](https://thunderstore.io/c/lethal-company/p/CodeEnder/Custom_Boombox_Fix/), [Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/), [DeadAndBored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/), [Gnomes](https://thunderstore.io/c/lethal-company/p/Sconeys/Gnomes/), [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/), [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/), [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/), [LethalAPI_Terminal](https://thunderstore.io/c/lethal-company/p/LethalAPI/LethalAPI_Terminal/), [LogNeuter](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LogNeuter/), [ModelReplacementAPI](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/), [MusicPackZ](https://thunderstore.io/c/lethal-company/p/Zikeji/MusicPackZ/), [PizzaTowerEscapeMusic](https://thunderstore.io/c/lethal-company/p/BGN/PizzaTowerEscapeMusic/), [Possessed_Masks](https://thunderstore.io/c/lethal-company/p/OE_Tweaks/Possessed_Masks/), [QuickQuitToMenu](https://thunderstore.io/c/lethal-company/p/taffyko/QuickQuitToMenu/), [ScavengerMaid](https://thunderstore.io/c/lethal-company/p/OfEden/ScavengerMaid/), [SirenHead](https://thunderstore.io/c/lethal-company/p/Ccode_lang/SirenHead/), [SlimeTamingFix](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/), [TeleportDecline](https://thunderstore.io/c/lethal-company/p/MasterAli2/TeleportDecline/), [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/), & [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/)
+
+Removed a bunch of stuff.
+
 # 2.4.3
 
 ### Additions
