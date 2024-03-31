@@ -1,3 +1,9 @@
+# 2.5.1
+
+### Updates
+
+Updated [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) updated to 2.0.3, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.14, [ReservedWeaponSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot/) updated to 1.1.3, and [LittleCompany](https://thunderstore.io/c/lethal-company/p/Toybox/LittleCompany/) updated to 0.5.4.
+
 # 2.5.0
 
 ### Additions
