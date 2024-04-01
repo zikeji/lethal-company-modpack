@@ -1,3 +1,15 @@
+# 2.5.5
+
+### Additions
+
+#### [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+
+Removed experimental from the modpack and added this release.
+
+### Updates
+
+Updated [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.7.4.
+
 # 2.5.4
 
 ### Additions
