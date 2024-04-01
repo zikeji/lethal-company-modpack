@@ -1,3 +1,19 @@
+# 2.5.6
+
+### Updates
+
+Updated [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) updated to 2.4.8.
+
+### Removals
+
+#### [AutomaticInventoryFixPlugin](https://thunderstore.io/c/lethal-company/p/TestAccount666/AutomaticInventoryFixPlugin/)
+
+Potentially causing issues.
+
+#### [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+
+Definitely caused issues.
+
 # 2.5.5
 
 ### Additions
