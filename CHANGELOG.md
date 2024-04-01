@@ -1,3 +1,25 @@
+# 1.0.4
+
+### Additions
+
+#### [BetterStamina](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)
+
+At request.
+
+#### [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/)
+
+At request.
+
+### Removals
+
+#### [AutomaticInventoryFixPlugin](https://thunderstore.io/c/lethal-company/p/TestAccount666/AutomaticInventoryFixPlugin/)
+
+Possible causing issues.
+
+#### [LethalPhones](https://thunderstore.io/c/lethal-company/p/Scoops/LethalPhones/)
+
+We don't need these.
+
 # 1.0.3
 
 ### Removals
