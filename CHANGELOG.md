@@ -1,3 +1,15 @@
+# 2.5.2
+
+### Additions
+
+#### [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/), [AutomaticInventoryFixPlugin](https://thunderstore.io/c/lethal-company/p/TestAccount666/AutomaticInventoryFixPlugin/), [QuickQuitToMenu](https://thunderstore.io/c/lethal-company/p/taffyko/QuickQuitToMenu/), [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/), [ShootableMouthDogs](https://thunderstore.io/c/lethal-company/p/AgentRev/ShootableMouthDogs/), & [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
+
+QOL mods.
+
+### Updates
+
+Updated [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.15.
+
 # 2.5.1
 
 ### Updates
