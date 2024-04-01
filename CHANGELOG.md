@@ -1,3 +1,25 @@
+# 2.5.4
+
+### Additions
+
+#### [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+
+Replaces More_Emotes.
+
+#### [AutoCompanyBuilding](https://thunderstore.io/c/lethal-company/p/La_chips/AutoCompanyBuilding/), [Celestial_Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/), [EnhancedIcons](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons/), [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+
+QoLs and enhancements.
+
+### Removals
+
+#### [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+
+Replaced with BetterEmotes.
+
+#### [LittleCompany](https://thunderstore.io/c/lethal-company/p/Toybox/LittleCompany/)
+
+Reasons.
+
 # 2.5.3
 
 ### Additions
