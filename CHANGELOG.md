@@ -1,3 +1,11 @@
+# 2.5.3
+
+### Additions
+
+#### [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/)
+
+This looks cool.
+
 # 2.5.2
 
 ### Additions
