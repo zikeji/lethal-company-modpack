@@ -1,3 +1,11 @@
+# 1.0.1
+
+### Removals
+
+#### [IsThisTheWayICame](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/) & [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+
+Inspecting the description I don't think want these. Oops.
+
 # 1.0.0
 
 Created, based on 2.5.4 of the main modpack.
