@@ -1,3 +1,11 @@
+# 1.0.2
+
+Tweaked configs.
+
+### Updates
+
+Updated [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.4.
+
 # 1.0.1
 
 ### Removals
