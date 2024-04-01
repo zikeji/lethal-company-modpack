@@ -1,12 +1,11 @@
 {
   "name": "Z_Infection_Modpack",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends, rebuilt for infected company.",
   "dependencies": [
     "404_Dom-Doms_Basic_Suit_Colors-1.4.4",
     "5Bit-VoiceHUD-1.0.4",
-    "AdiBTW-Loadstone-0.0.5",
     "AgentRev-ShootableMouthDogs-1.0.1",
     "AinaVT-LethalConfig-1.4.0",
     "AllToasters-SpectateEnemies-2.3.1",

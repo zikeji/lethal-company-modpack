@@ -1,3 +1,11 @@
+# 1.0.3
+
+### Removals
+
+#### [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+
+This is a great mod if you want to take load times from ~30 seconds to minutes. 0/10 would not recommend.
+
 # 1.0.2
 
 Tweaked configs.
