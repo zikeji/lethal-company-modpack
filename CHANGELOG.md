@@ -1,3 +1,9 @@
+# 1.0.5
+
+### Updates
+
+Updated [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 2.0.4, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.7.5, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.6, [EnhancedIcons](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons/) updated to 1.0.3, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.1.12, [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/) updated to 4.1.0, and [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.5.1.
+
 # 1.0.4
 
 ### Additions
