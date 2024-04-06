@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack",
-  "version_number": "2.5.7",
+  "version_number": "2.5.8",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -120,6 +120,7 @@
     "ShaosilGaming-GeneralImprovements-1.1.12",
     "Sigurd-CSync-4.1.0",
     "Sligili-HDLethalCompany-1.5.6",
+    "Smxrez-SimpleCompany-0.3.0",
     "Spyci-CozyImprovements-1.2.2",
     "sunnobunno-BonkHitSFX-1.0.5",
     "sunnobunno-YippeeMod-1.2.4",

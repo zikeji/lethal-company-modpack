@@ -1,3 +1,11 @@
+# 2.5.8
+
+### Additions
+
+#### [SimpleCompany](https://thunderstore.io/c/lethal-company/p/Smxrez/SimpleCompany/)
+
+More cosmetics, yee!
+
 # 2.5.7
 
 ### Updates
