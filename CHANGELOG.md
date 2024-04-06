@@ -1,3 +1,9 @@
+# 2.5.7
+
+### Updates
+
+Updated [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/) updated to 3.2.1, [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.0.1, [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.3.2, [BepInEx_Faster_Load_AssetBundles_Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) updated to 0.4.0, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.1, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.17, [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 2.0.4, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.7.5, [EnhancedIcons](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons/) updated to 1.0.3, [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.15.75, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.1.12, [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/) updated to 4.1.0, [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/) updated to 0.3.1, [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 3.5.4, [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.3.5, and [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.5.1.
+
 # 2.5.6
 
 ### Updates
