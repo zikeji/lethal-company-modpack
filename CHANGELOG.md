@@ -1,3 +1,15 @@
+# 1.0.6
+
+### Additions
+
+#### [SimpleCompany](https://thunderstore.io/c/lethal-company/p/Smxrez/SimpleCompany/)
+
+More cosmetics, yee.
+
+### Updates
+
+Updated [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/) updated to 3.2.1, [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.0.1, [BepInEx_Faster_Load_AssetBundles_Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) updated to 0.4.0, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.1, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.17, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.7, [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/) updated to 0.3.1, and [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.3.5.
+
 # 1.0.5
 
 ### Updates
