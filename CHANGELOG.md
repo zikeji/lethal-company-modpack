@@ -1,3 +1,11 @@
+# 2.5.9
+
+Updated LethalCasino & LateGameUpgrades configs.
+
+### Updates
+
+Updated [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/) updated to 3.3.1, [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.0.5, [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.3.8, [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) updated to 2.0.2, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.7.1, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.15.1, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.18, [BadAssCompany](https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/) updated to 1.1.10, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.8.2, [FairGiants](https://thunderstore.io/c/lethal-company/p/LegoMaster3650/FairGiants/) updated to 1.1.1, [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/) updated to 0.15.79, [Emergency_Dice](https://thunderstore.io/c/lethal-company/p/Theronguard/Emergency_Dice/) updated to 1.1.17, [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) updated to 1.0.8, [TheGiantSpecimens](https://thunderstore.io/c/lethal-company/p/XuXiaolan/TheGiantSpecimens/) updated to 1.8.1, [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.4, [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 3.5.5, [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) updated to 1.6.2, [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.3.6, [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) updated to 1.0.19, and [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.8.
+
 # 2.5.8
 
 ### Additions
