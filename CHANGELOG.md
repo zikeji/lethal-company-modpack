@@ -1,3 +1,15 @@
+# 2.5.10
+
+### Updates
+
+Updated [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.5.0.
+
+### Removals
+
+#### [Celestial_Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/)
+
+Another mod that requires LethalLevelLoader... Sigh.
+
 # 2.5.9
 
 Updated LethalCasino & LateGameUpgrades configs.
