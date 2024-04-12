@@ -1,3 +1,11 @@
+# 1.0.7
+
+Updated LethalCasino and LethalCompany configs.
+
+### Updates
+
+Updated [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/) updated to 3.3.1, [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.0.5, [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) updated to 2.0.2, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.7.1, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.15.1, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.18, [BadAssCompany](https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/) updated to 1.1.10, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.8.2, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.9, [FairGiants](https://thunderstore.io/c/lethal-company/p/LegoMaster3650/FairGiants/) updated to 1.1.1, [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) updated to 1.0.8, [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.4, [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) updated to 1.6.2, [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.3.6, [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) updated to 1.0.19, and [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.8.
+
 # 1.0.6
 
 ### Additions
