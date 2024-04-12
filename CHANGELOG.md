@@ -1,5 +1,11 @@
 # 2.5.10
 
+### Additions
+
+#### [EnumUtils](https://thunderstore.io/c/lethal-company/p/MegaPiggy/EnumUtils/)
+
+New dependency.
+
 ### Updates
 
 Updated [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.5.0.
