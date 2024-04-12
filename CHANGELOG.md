@@ -1,3 +1,9 @@
+# 1.0.8
+
+### Updates
+
+Updated [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.5.0.
+
 # 1.0.7
 
 Updated LethalCasino and LethalCompany configs.
