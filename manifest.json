@@ -1,6 +1,6 @@
 {
   "name": "Zikeji_s_Convenience_Modpack",
-  "version_number": "2.5.10",
+  "version_number": "2.5.11",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "Just a pack of mods for friends.",
   "dependencies": [
@@ -37,6 +37,7 @@
     "Electric131-IsThisTheWayICame-1.1.4",
     "EliteMasterEric-Coroner-1.6.2",
     "Entity378-SellBodiesFixed-1.7.1",
+    "Evaisa-FixPluginTypesSerialization-1.1.1",
     "Evaisa-HookGenPatcher-0.0.5",
     "Evaisa-LethalLib-0.15.1",
     "Evaisa-LethalThings-0.10.2",

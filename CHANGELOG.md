@@ -1,3 +1,11 @@
+# 2.5.11
+
+### Additions
+
+#### [FixPluginTypesSerialization](https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/)
+
+New dependency.
+
 # 2.5.10
 
 ### Additions
