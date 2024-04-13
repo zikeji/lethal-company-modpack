@@ -1,3 +1,79 @@
+# 3.0.0
+
+Initial v50 version release. Left the BetterEmotes config as it will be added back once fixed.
+
+### Additions
+
+#### [ButlerAdditionalPlayerFix](https://thunderstore.io/c/lethal-company/p/Dev1A3/ButlerAdditionalPlayerFix/)
+
+Allows more than 4 players to play.
+
+#### [FixPluginTypesSerialization](https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/)
+
+New dependency.
+
+#### [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/), [NAudio](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/), [UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/), & [BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)
+
+Replacing SkinWalkers and MaskedEnemyOverhaul.
+
+#### [Immersive_Visor](https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/)
+
+Bringing this over from infected pack.
+
+#### [ToggleableNightVision](https://thunderstore.io/c/lethal-company/p/kentrosity/ToggleableNightVision/)
+
+Replacing EnhancedSpectator.
+
+#### [FacilityMeltdownExperimental](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/)
+
+Replaces the non-experimental version, as this one provides v50 support.
+
+### Updates
+
+Updated [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.4.0, [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) updated to 1.0.7, [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/) updated to 1.3.9, [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) updated to 0.10.3, [Emergency_Dice](https://thunderstore.io/c/lethal-company/p/Theronguard/Emergency_Dice/) updated to 1.1.20, [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) updated to 3.5.6, [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.5, [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) updated to 2.5.0, and [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/) updated to 1.1.1.
+
+### Removals
+
+#### [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+
+Depends on Runtime_Netcode_Patcher, which is broken.
+
+#### [Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
+
+See above.
+
+#### [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+
+No word on support, so leaving this out.
+
+#### [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
+
+Replaced with experimental.
+
+#### [FairGiants](https://thunderstore.io/c/lethal-company/p/LegoMaster3650/FairGiants/)
+
+v50 fixes alot of giant issues, so removed.
+
+#### [JetpackFallFix](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackFallFix/)
+
+Issues in v50.
+
+#### [LC_Masked_Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/)
+
+Mod author says no longer needed.
+
+#### [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+
+Broken, replaced with Mirage.
+
+#### [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+
+Supported, but replacing with Mirage.
+
+#### [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
+
+Broken in v50 until it gets updated to the new game code.
+
 # 2.5.11
 
 ### Additions
