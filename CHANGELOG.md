@@ -1,3 +1,9 @@
+# 2.0.1
+
+### Updates
+
+Updated [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.1.0, [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.4.1, [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) updated to 1.1.5, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.3.0, and [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.9.0.
+
 # 2.0.0
 
 Initial v50 version release. Left the BetterEmotes config as it will be added back once fixed.
