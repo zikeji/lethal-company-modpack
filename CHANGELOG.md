@@ -1,3 +1,59 @@
+# 2.0.0
+
+Initial v50 version release. Left the BetterEmotes config as it will be added back once fixed.
+
+### Additions
+
+#### [ButlerAdditionalPlayerFix](https://thunderstore.io/c/lethal-company/p/Dev1A3/ButlerAdditionalPlayerFix/)
+
+Allows more than 4 players to play.
+
+#### [FixPluginTypesSerialization](https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/)
+
+New dependency.
+
+#### [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/), [NAudio](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/), [UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/), & [BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)
+
+Replacing SkinWalkers and MaskedEnemyOverhaul.
+
+#### [ToggleableNightVision](https://thunderstore.io/c/lethal-company/p/kentrosity/ToggleableNightVision/)
+
+Replacing EnhancedSpectator.
+
+### Updates
+
+Updated [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.4.0, [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) updated to 1.0.7, [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) updated to 0.10.3, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.5.
+
+### Removals
+
+#### [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+
+Depends on Runtime_Netcode_Patcher, which is broken.
+
+#### [Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
+
+See above.
+
+#### [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+
+No word on support, so leaving this out.
+
+#### [JetpackFallFix](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackFallFix/)
+
+Issues in v50.
+
+#### [LC_Masked_Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/)
+
+Mod author says no longer needed.
+
+#### [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+
+Broken, replaced with Mirage.
+
+#### [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+
+Supported, but replacing with Mirage.
+
 # 1.0.8
 
 ### Updates
