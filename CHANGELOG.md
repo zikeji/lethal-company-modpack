@@ -1,3 +1,21 @@
+# 3.0.1
+
+### Additions
+
+#### [LobbyCompatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) & [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)
+
+New dependencies of mods.
+
+### Updates
+
+Updated [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.1.0, [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.4.1, [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) updated to 1.1.5, and [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.9.0.
+
+### Removals
+
+#### [MaskedAIRevamp](https://thunderstore.io/c/lethal-company/p/Piggy/MaskedAIRevamp/)
+
+Errors / causing issues.
+
 # 3.0.0
 
 Initial v50 version release. Left the BetterEmotes config as it will be added back once fixed.
