@@ -1,167 +1,59 @@
-# 2.0.1
+# 1.0.1
 
-### Updates
-
-Updated [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.1.0, [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.4.1, [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) updated to 1.1.5, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.3.0, and [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.9.0.
-
-# 2.0.0
-
-Initial v50 version release. Left the BetterEmotes config as it will be added back once fixed.
+Config changes to bring a more vanilla experience.
 
 ### Additions
+
+#### [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+
+Adding this back.
+
+#### [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
+
+This too.
+
+#### [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
+
+Forgot I removed this.
+
+#### [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+
+Cameras.
+
+#### [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+
+Replacement for emotes.
+
+#### [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/)
+
+Some motivation.
+
+#### [WheresWaldoSuit](https://thunderstore.io/c/lethal-company/p/ViViKo/WheresWaldoSuit/) & [CudisRealisticSuits](https://thunderstore.io/c/lethal-company/p/kidcudilovers/CudisRealisticSuits/)
+
+Suits.
+
+#### [FixPluginTypesSerialization](https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/), [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/), [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/), [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/), & [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/)
+
+Dependencies.
+
+### Removals
+
+#### [AutoCompanyBuilding](https://thunderstore.io/c/lethal-company/p/La_chips/AutoCompanyBuilding/)
+
+Fluff.
 
 #### [ButlerAdditionalPlayerFix](https://thunderstore.io/c/lethal-company/p/Dev1A3/ButlerAdditionalPlayerFix/)
 
-Allows more than 4 players to play.
+Part of MoreCompany natively.
 
-#### [FixPluginTypesSerialization](https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/)
+#### [LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
 
-New dependency.
+Part of general improvements.
 
-#### [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/), [NAudio](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/), [UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/), & [BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)
+#### [UnlimitedTZP](https://thunderstore.io/c/lethal-company/p/ATK/UnlimitedTZP/)
 
-Replacing SkinWalkers and MaskedEnemyOverhaul.
-
-#### [ToggleableNightVision](https://thunderstore.io/c/lethal-company/p/kentrosity/ToggleableNightVision/)
-
-Replacing EnhancedSpectator.
-
-### Updates
-
-Updated [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) updated to 2.4.0, [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) updated to 1.0.7, [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) updated to 0.10.3, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.5.
-
-### Removals
-
-#### [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
-
-Depends on Runtime_Netcode_Patcher, which is broken.
-
-#### [Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
-
-See above.
-
-#### [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
-
-No word on support, so leaving this out.
-
-#### [JetpackFallFix](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackFallFix/)
-
-Issues in v50.
-
-#### [LC_Masked_Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/)
-
-Mod author says no longer needed.
-
-#### [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
-
-Broken, replaced with Mirage.
-
-#### [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
-
-Supported, but replacing with Mirage.
-
-# 1.0.8
-
-### Updates
-
-Updated [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.5.0.
-
-# 1.0.7
-
-Updated LethalCasino and LethalCompany configs.
-
-### Updates
-
-Updated [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/) updated to 3.3.1, [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.0.5, [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) updated to 2.0.2, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.7.1, [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) updated to 0.15.1, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.18, [BadAssCompany](https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/) updated to 1.1.10, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.8.2, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.9, [FairGiants](https://thunderstore.io/c/lethal-company/p/LegoMaster3650/FairGiants/) updated to 1.1.1, [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) updated to 1.0.8, [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/) updated to 3.0.4, [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) updated to 1.6.2, [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.3.6, [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) updated to 1.0.19, and [SnatchinBracken](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/) updated to 1.4.8.
-
-# 1.0.6
-
-### Additions
-
-#### [SimpleCompany](https://thunderstore.io/c/lethal-company/p/Smxrez/SimpleCompany/)
-
-More cosmetics, yee.
-
-### Updates
-
-Updated [ConfigurableCompany](https://thunderstore.io/c/lethal-company/p/AMRV/ConfigurableCompany/) updated to 3.2.1, [LethalCompanyVariables](https://thunderstore.io/c/lethal-company/p/AMRV/LethalCompanyVariables/) updated to 2.0.1, [BepInEx_Faster_Load_AssetBundles_Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) updated to 0.4.0, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.1, [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) updated to 2.0.17, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.7, [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/) updated to 0.3.1, and [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.3.5.
-
-# 1.0.5
-
-### Updates
-
-Updated [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) updated to 2.0.4, [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.7.5, [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.6, [EnhancedIcons](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons/) updated to 1.0.3, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.1.12, [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/) updated to 4.1.0, and [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.5.1.
-
-# 1.0.4
-
-### Additions
-
-#### [BetterStamina](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)
-
-At request.
-
-#### [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/)
-
-At request.
-
-### Removals
-
-#### [AutomaticInventoryFixPlugin](https://thunderstore.io/c/lethal-company/p/TestAccount666/AutomaticInventoryFixPlugin/)
-
-Possible causing issues.
-
-#### [LethalPhones](https://thunderstore.io/c/lethal-company/p/Scoops/LethalPhones/)
-
-We don't need these.
-
-# 1.0.3
-
-### Removals
-
-#### [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
-
-This is a great mod if you want to take load times from ~30 seconds to minutes. 0/10 would not recommend.
-
-# 1.0.2
-
-Tweaked configs.
-
-### Updates
-
-Updated [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/) updated to 0.2.4.
-
-# 1.0.1
-
-### Removals
-
-#### [IsThisTheWayICame](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/) & [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
-
-Inspecting the description I don't think want these. Oops.
+Not vanilla.
 
 # 1.0.0
 
-Created, based on 2.5.4 of the main modpack.
-
-### Additions
-
-#### [InfectedCompany](https://thunderstore.io/c/lethal-company/p/InfectedCompany/InfectedCompany/)
-
-The star of the show.
-
-#### [Immersive_Visor](https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/)
-
-I M M E R S I O N
-
-#### [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)
-
-Depenency.
-
-### Updates
-
-Updated [LethalEmotesAPI](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) updated to 1.7.4.
-
-### Removals
-
-#### [Celestial_Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/), [DimmingFlashlights](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/), [Emergency_Dice](https://thunderstore.io/c/lethal-company/p/Theronguard/Emergency_Dice/), [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/), [Haunted_Harpist](https://thunderstore.io/c/lethal-company/p/Bob123/Haunted_Harpist/), [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/), [LethalEscape](https://thunderstore.io/c/lethal-company/p/xCeezy/LethalEscape/), [LethalPlushies](https://thunderstore.io/c/lethal-company/p/Nuts/LethalPlushies/), [LethalUtilities](https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities/), [Lethal_Trading_Cards](https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/), [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/), [MaskedAIRevamp](https://thunderstore.io/c/lethal-company/p/Piggy/MaskedAIRevamp/), [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/), [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/), [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/), [TheGiantSpecimens](https://thunderstore.io/c/lethal-company/p/XuXiaolan/TheGiantSpecimens/), [ULTRAPLUSHIES](https://thunderstore.io/c/lethal-company/p/Scintesto/ULTRAPLUSHIES/), [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/), [abandonedcompanyassets](https://thunderstore.io/c/lethal-company/p/Sconeys/abandonedcompanyassets/)
-
-Removals to bring things closer to vanilla.
+Initial slimmed down release.
