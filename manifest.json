@@ -1,6 +1,6 @@
 {
   "name": "Z_Modpack_Ultralite",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/zikeji/lethal-company-modpack",
   "description": "ULTRA HOT, ULTRA LITE.",
   "dependencies": [
@@ -35,6 +35,8 @@
     "quackandcheese-ToggleMute-1.3.1",
     "qwbarch-BarchLib-1.0.0",
     "qwbarch-Mirage-1.3.2",
+    "Renegades-FlashlightToggle-1.5.0",
+    "Renegades-WalkieUse-1.5.0",
     "Rozebud-FOV_Adjust-1.1.1",
     "Rune580-LethalCompany_InputUtils-0.7.4",
     "Sakura-LandminesForAll-1.0.1",

@@ -1,3 +1,11 @@
+# 1.0.2
+
+### Additions
+
+#### [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) & [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
+
+For obvious reasons.
+
 # 1.0.1
 
 Config changes to bring a more vanilla experience.
