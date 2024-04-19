@@ -1,3 +1,29 @@
+# 1.0.3
+
+### Additions
+
+#### [FPSSpectate](https://thunderstore.io/c/lethal-company/p/DeathWrench/FPSSpectate/)
+
+They added a hide cosmetics function :D.
+
+#### [TooManyEmotesScrap](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotesScrap/)
+
+Word.
+
+### Updates
+
+Updated [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.7.2, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.2, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.1.5, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.2.0, and [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) updated to 1.4.0.
+
+### Removals
+
+#### [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
+
+Merged into GeneralImprovements.
+
+#### [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+
+GeneralImprovements added this.
+
 # 1.0.2
 
 ### Additions
