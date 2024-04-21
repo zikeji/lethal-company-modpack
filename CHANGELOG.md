@@ -1,3 +1,25 @@
+# 1.0.5
+
+### Additions
+
+#### [BensCosmetics](https://thunderstore.io/c/lethal-company/p/PlainBen/BensCosmetics/), [EquipmentCompany](https://thunderstore.io/c/lethal-company/p/companyemployee/EquipmentCompany/), [JigglePhysicsPlugin](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin/), [LethalCosmeticsZ](https://thunderstore.io/c/lethal-company/p/Zikeji/LethalCosmeticsZ/)
+
+Add back in some cosmetics.
+
+#### [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+
+Prettiery terminal.
+
+### Updates
+
+Updated [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.8.0, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.2.1, and [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.4.0.
+
+### Removals
+
+#### [CollectYourDead](https://thunderstore.io/c/lethal-company/p/freesnow/CollectYourDead/)
+
+Causing sound issues.
+
 # 1.0.4
 
 ### Updates
