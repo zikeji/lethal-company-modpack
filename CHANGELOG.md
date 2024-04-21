@@ -1,3 +1,9 @@
+# 1.0.4
+
+### Updates
+
+Updated [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.1.8, [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) updated to 1.2.9, and [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) updated to 1.5.1.
+
 # 1.0.3
 
 ### Additions
