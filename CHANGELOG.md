@@ -1,3 +1,9 @@
+# 1.0.6
+
+### Updates
+
+Updated [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.3, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.1.9, [TooManyEmotesScrap](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotesScrap/) updated to 1.0.5, [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) updated to 1.0.9, and [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) updated to 2.4.2.
+
 # 1.0.5
 
 ### Additions
