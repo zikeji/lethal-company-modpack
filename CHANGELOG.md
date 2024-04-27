@@ -1,3 +1,9 @@
+# 1.0.7
+
+### Updates
+
+Updated [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.8.1, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.1.12, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.2.3, [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/) updated to 0.2.3, [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) updated to 1.9.1, [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) updated to 1.6.0, and [ShipWindows](https://thunderstore.io/c/lethal-company/p/veri/ShipWindows/) updated to 2.0.6.
+
 # 1.0.6
 
 ### Updates
