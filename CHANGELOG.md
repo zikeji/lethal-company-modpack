@@ -1,3 +1,19 @@
+# 1.0.8
+
+### Additions
+
+#### [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+
+Added this back.
+
+#### [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/)
+
+Dependency of TerminalFormatter.
+
+### Updates
+
+Updated [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.4 and [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.1.13.
+
 # 1.0.7
 
 ### Updates
