@@ -1,3 +1,17 @@
+# 1.1.0
+
+Updated configs to new versions.
+
+### Additions
+
+#### [VileVendingMachine](https://thunderstore.io/c/lethal-company/p/MeatBallDemon/VileVendingMachine/)
+
+Sounds like fun!
+
+### Updates
+
+Updated [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) updated to 2.1.1, [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/) updated to 1.8.9, [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) updated to 1.6.8, [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) updated to 2.1.18, [JigglePhysicsPlugin](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin/) updated to 1.1.21, [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) updated to 1.2.8, [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/) updated to 5.0.1, [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) updated to 2.2.0, [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) updated to 0.5.3, [LethalRichPresence](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresence/) updated to 0.5.9, [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/) updated to 0.0.9, [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/) updated to 0.2.11, [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) updated to 1.7.0, [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) updated to 2.0.4, and [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/) updated to 1.0.7.
+
 # 1.0.8
 
 ### Additions
